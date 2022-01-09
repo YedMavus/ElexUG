@@ -1,4 +1,6 @@
-# Class Recording Links including YouTube Playlists and GDrive [Some links may only be accessible via @students.iiests.ac.in email ID]
+# Class Recording Links including YouTube Playlists and GDrive 
+
+[Some links may only be accessible via @students.iiests.ac.in email ID]
 
 ## Theory Classes
 

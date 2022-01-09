@@ -4,15 +4,15 @@
 
 ## Theory Classes
 
-### Analog Elex
+### Analog Elex [RM,PB]
 
-### Digital Elex
+### Digital Elex [AB]
 
-### Microelex Tech
+### Microelex Tech [MM, CRC]
 
-### Elex Instrumentation and Control
+### Elex Instrumentation and Control [CRC]
 
-### Elex Theory and Radio Wave Propagation
+### Elex Theory and Radio Wave Propagation [SD]
 
 ## Practical Classes
 

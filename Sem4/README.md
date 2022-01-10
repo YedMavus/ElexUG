@@ -6,6 +6,10 @@
 
 ### Analog Elex [RM,PB]
 
+##### Prof RC
+- 10-01-22: https://www.youtube.com/watch?v=5-rYFTE1hwE
+- 
+
 ### Digital Elex [AB]
 
 ### Microelex Tech [MM, CRC]

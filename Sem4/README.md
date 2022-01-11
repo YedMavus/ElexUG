@@ -20,6 +20,7 @@
 ### Elex Instrumentation and Control [CRC]
 
 ### Elex Theory and Radio Wave Propagation [SD]
+  - 11-01-22: https://youtu.be/grvNB2cYeK8
 
 ## Practical Classes
 

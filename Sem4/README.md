@@ -2,6 +2,10 @@
 
 [Some links may only be accessible via @students.iiests.ac.in email ID]
 
+Complete Playlist (Haphazard)[https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB]
+https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
+
+
 ## Theory Classes
 
 ### Analog Elex [RM,PB]

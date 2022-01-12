@@ -20,6 +20,7 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
+- 
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
@@ -30,6 +31,7 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
+  - 
 
 ## Practical Classes
 

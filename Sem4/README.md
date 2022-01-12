@@ -19,6 +19,7 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 - 
 
 ### Digital Elex [AB]
+- 12-01-22: [Intro + ](https://youtu.be/3oPHJGOTcOk)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

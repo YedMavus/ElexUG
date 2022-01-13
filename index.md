@@ -1,4 +1,4 @@
-# Class Recording Links including YouTube Playlists and GDrive 
+# Sem 4: Class Recording Links including YouTube Playlists and GDrive 
 
 
 Others are welcome to contribute by adding links, recording links and making the titles of the class rec links better by forking this repositiory and then comitting changes as is done in GitHub.

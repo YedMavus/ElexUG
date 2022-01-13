@@ -14,7 +14,7 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 
 ## Theory Classes
 
-### Analog Elex [RM,PB]
+### Analog Elex [RC,PB]
 
 ##### Prof RC
 - 10-01-22: [Intro + Amplifier Basics + Cascading](https://www.youtube.com/watch?v=5-rYFTE1hwE)

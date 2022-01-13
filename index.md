@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Class Recording Links including YouTube Playlists and GDrive 
 
-You can use the [editor on GitHub](https://github.com/YedMavus/ElexUG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Others are welcome to contribute by adding links, recording links and making the titles of the class rec links better by forking this repositiory and then comitting changes as is done in GitHub.
+[Some links may only be accessible via @students.iiests.ac.in email ID]
 
-### Markdown
+[Complete Playlist (Haphazard)](https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Theory Classes
 
-1. Numbered
-2. List
+### Analog Elex [RM,PB]
 
-**Bold** and _Italic_ and `Code` text
+##### Prof RC
+- 10-01-22: [Intro + Amplifier Basics + Cascading](https://www.youtube.com/watch?v=5-rYFTE1hwE)
+- 
 
-[Link](url) and ![Image](src)
-```
+### Digital Elex [AB]
+- 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
+- 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Microelex Tech [MM, CRC]
+##### Prof MM
+- 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
+- 
 
-### Jekyll Themes
+### Elex Instrumentation and Control [CRC]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YedMavus/ElexUG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Elex Theory and Radio Wave Propagation [SD]
+  - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
+  - 13-01-22: [Class 2: Gauss' Law](https://youtu.be/R2pdv91rW2s)
 
-### Support or Contact
+## Practical Classes
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Analog Elex Lab
+
+### Digital Elex Lab
+
+### Microelex Lab
+
+### Elex Inst and Control Lab

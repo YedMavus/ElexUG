@@ -31,7 +31,7 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
-  - 13-01-22: [Class 2:](https://youtu.be/R2pdv91rW2s)
+  - 13-01-22: [Class 2: Gauss' Law](https://youtu.be/R2pdv91rW2s)
 
 ## Practical Classes
 

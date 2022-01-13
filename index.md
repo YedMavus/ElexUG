@@ -22,7 +22,7 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
-- 13-01-22: [Logic Gates and Adders](https://youtu.be/T9Wfk50bEbM)
+- 13-01-22: [Logic Gates and Adders + Practical Intro](https://youtu.be/T9Wfk50bEbM)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

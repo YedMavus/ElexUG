@@ -34,6 +34,7 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
   - 13-01-22: [Class 2: Gauss' Law](https://youtu.be/R2pdv91rW2s)
+  - [SV1 Intro and Coulombs Lec Notes](https://drive.google.com/file/d/1CbfOqxALnAGA4l4guQDsS0K2fNQ5qxT-/view?usp=sharing) *
 
 ## Practical Classes
 
@@ -44,3 +45,9 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 ### Microelex Lab
 
 ### Elex Inst and Control Lab
+
+
+
+
+
+###### GSuite ID needed

@@ -18,7 +18,7 @@ Others are welcome to contribute by adding links, recording links and making the
 
 ##### Prof RC
 - 10-01-22: [Intro + Amplifier Basics + Cascading](https://www.youtube.com/watch?v=5-rYFTE1hwE)
-- 
+- 14-01-22: [Amplifiers](https://youtu.be/aQ3OY9YpyEU)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
@@ -31,7 +31,7 @@ Others are welcome to contribute by adding links, recording links and making the
 
 ### Elex Instrumentation and Control [MM+CRC]
 ##### Prof MM
-- 14-01-22: [Subject Intro + ](https://youtu.be/6TdLCencZBM)
+- 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)

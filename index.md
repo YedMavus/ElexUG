@@ -49,5 +49,6 @@ Others are welcome to contribute by adding links, recording links and making the
 ### Elex Inst and Control Lab
 
 
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 ###### *GSuite ID needed

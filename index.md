@@ -29,7 +29,9 @@ Others are welcome to contribute by adding links, recording links and making the
 - 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
 - 
 
-### Elex Instrumentation and Control [CRC]
+### Elex Instrumentation and Control [MM+CRC]
+##### Prof MM
+- 14-01-22: [Subject Intro + ](https://youtu.be/6TdLCencZBM)
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)

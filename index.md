@@ -30,7 +30,7 @@ Others are welcome to contribute by adding links, recording links and making the
 - 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
 - 13-01-22: [IC Technologies - Compound Semiconds](https://youtu.be/2qcF069PvRw)
 
-### Elex Instrumentation and Control [MM+CRC]
+### Elex Instrumentation and Control [MM, CRC]
 ##### Prof MM
 - 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
 

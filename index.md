@@ -9,7 +9,7 @@ Others are welcome to contribute by adding links, recording links and making the
 [Complete Playlist (Haphazard)](https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB)
 ## Latest Class Video Stream / Recording
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB" title="YouTube video player" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Theory Classes

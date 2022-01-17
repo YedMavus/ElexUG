@@ -27,7 +27,7 @@ Others are welcome to contribute by adding links, recording links and making the
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
 - 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
-- 13-01-22: [?](https://youtu.be/2qcF069PvRw)
+- 13-01-22: [IC Technologies - Compound Semiconds](https://youtu.be/2qcF069PvRw)
 
 ### Elex Instrumentation and Control [MM+CRC]
 ##### Prof MM
@@ -55,7 +55,7 @@ Others are welcome to contribute by adding links, recording links and making the
 
 
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+## Visitor Count [Starting from Jan 17, 22]
+![Visitor Count](https://profile-counter.glitch.me/yedmavus/count.svg)
 
 ###### *GSuite ID needed

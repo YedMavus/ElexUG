@@ -1,37 +1,42 @@
-# Class Recording Links including YouTube Playlists and GDrive 
+# Sem 4: Class Recording Links including YouTube Playlists and GDrive 
+
+## Link to this Site: [https://yedmavus.github.io/ElexUG/](https://yedmavus.github.io/ElexUG/)
 
 
 Others are welcome to contribute by adding links, recording links and making the titles of the class rec links better by forking this repositiory and then comitting changes as is done in GitHub.
 [Some links may only be accessible via @students.iiests.ac.in email ID]
 
 [Complete Playlist (Haphazard)](https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB)
+## Latest Class Video Stream / Recording
 
-
-https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Theory Classes
 
-### Analog Elex [RM,PB]
+### Analog Elex [RC,PB]
 
 ##### Prof RC
 - 10-01-22: [Intro + Amplifier Basics + Cascading](https://www.youtube.com/watch?v=5-rYFTE1hwE)
-- 
+- 14-01-22: [A lot of Disruptions, Disconnections and a bit of Amplifiers](https://youtu.be/aQ3OY9YpyEU&t=36m12s)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
-- 
+- 13-01-22: [Logic Gates and Adders + Practical Intro](https://youtu.be/T9Wfk50bEbM)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
 - 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
-- 
+- 13-01-22: [IC Technologies - Compound Semiconds](https://youtu.be/2qcF069PvRw)
 
-### Elex Instrumentation and Control [CRC]
+### Elex Instrumentation and Control [MM+CRC]
+##### Prof MM
+- 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
   - 13-01-22: [Class 2: Gauss' Law](https://youtu.be/R2pdv91rW2s)
+  - [SV1 Intro and Coulombs Lec Notes](https://drive.google.com/file/d/1CbfOqxALnAGA4l4guQDsS0K2fNQ5qxT-/view?usp=sharing) *
 
 ## Practical Classes
 
@@ -42,3 +47,15 @@ https://www.youtube.com/playlist?list=PLY70atkmIfpOF_SEZL1h6ubCxGF-K3kfB
 ### Microelex Lab
 
 ### Elex Inst and Control Lab
+
+
+
+
+
+
+
+
+## Visitor Count [Starting from Jan 17, 22]
+![Visitor Count](https://profile-counter.glitch.me/yedmavus/count.svg)
+
+###### *GSuite ID needed

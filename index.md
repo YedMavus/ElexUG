@@ -33,6 +33,8 @@ Others are welcome to contribute by adding links, recording links and making the
 ### Elex Instrumentation and Control [MM, CRC]
 ##### Prof MM
 - 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
+##### Prof CRC
+- 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew)
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)

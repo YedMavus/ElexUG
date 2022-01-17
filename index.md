@@ -55,7 +55,7 @@ Others are welcome to contribute by adding links, recording links and making the
 
 
 
-## Visitor Count [Starting from Jan 17, 22]
+## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/yedmavus/count.svg)
 
 ###### *GSuite ID needed

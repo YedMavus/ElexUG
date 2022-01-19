@@ -25,6 +25,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
 - 13-01-22: [Logic Gates and Adders + Practical Intro](https://youtu.be/T9Wfk50bEbM)
+- 19-01-22: [Encoders and Decorders using logic gates](https://youtu.be/_DShoX8hBkw)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

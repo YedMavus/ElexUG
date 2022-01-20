@@ -47,7 +47,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 13-01-22: [Class 2: Gauss' Law](https://youtu.be/R2pdv91rW2s)
   - [SV1 Intro and Coulombs Lec Notes](https://drive.google.com/file/d/1CbfOqxALnAGA4l4guQDsS0K2fNQ5qxT-/view?usp=sharing)*
   - 18-01-22: [Application and non-Aplication of Gauss' Law](https://youtu.be/Ho11EwMpV6o)
-  - 20-01-22: [Application of Gauss' Law in different cases like Hollow / Solid sphere, metallic and non metallic {contd.}](https://youtu.be/SJQlbp8Swng)
+  - 20-01-22: [Application of Gauss' Law{contd.}, Potential and Cyl Coords.](https://youtu.be/SJQlbp8Swng)
 
 
 ## Practical Classes

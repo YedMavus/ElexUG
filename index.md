@@ -36,6 +36,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 ### Elex Instrumentation and Control [MM, CRC]
 ##### Prof MM
 - 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
+- 21-01-22: [Measurement Standards and Errors](https://youtu.be/iKjajEfVepo)
 
 
 ##### Prof CRC

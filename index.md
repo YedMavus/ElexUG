@@ -21,7 +21,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 10-01-22: [Intro + Amplifier Basics + Cascading](https://www.youtube.com/watch?v=5-rYFTE1hwE)
 - 14-01-22: [A lot of Disruptions, Disconnections and a bit of Amplifiers](https://youtu.be/aQ3OY9YpyEU&t=36m12s)
 - 17-01-22: [Amplifier Configurations, Discrete Amp ckt, etc](https://youtu.be/S2yNNsj64Ts)
-- 21-01-22: [??????](https://youtu.be/StlzfyD4XVE)
+- 21-01-22: [Freq response of Amps, FETs and FET Amplifiers](https://youtu.be/StlzfyD4XVE)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)

@@ -34,6 +34,11 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
 - 13-01-22: [IC Technologies - Compound Semiconds](https://youtu.be/2qcF069PvRw)
 
+
+##### Prof CRC
+- 22-01-22: [Sub Intro](https://drive.google.com/file/d/1NcdlAWTy9YEqp5J1qjdZD4RAiDNuEf-_/view?usp=sharing)*
+
+
 ### Elex Instrumentation and Control [MM, CRC]
 ##### Prof MM
 - 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
@@ -41,8 +46,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 
 ##### Prof CRC
-- 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link*](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk)
-- 
+- 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link*](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk) 
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)

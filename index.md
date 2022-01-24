@@ -22,6 +22,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 14-01-22: [A lot of Disruptions, Disconnections and a bit of Amplifiers](https://youtu.be/aQ3OY9YpyEU&t=36m12s)
 - 17-01-22: [Amplifier Configurations, Discrete Amp ckt, etc](https://youtu.be/S2yNNsj64Ts)
 - 21-01-22: [Freq response of Amps, FETs and FET Amplifiers](https://youtu.be/StlzfyD4XVE)
+- 24-01-22: [More cacading amps, freq  response etc. missing first 12 mins](https://www.youtube.com/watch?v=1UelWy9ZLTU) / [Alternate Link for full lecture](drive.google.com)*
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)

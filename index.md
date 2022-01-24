@@ -33,7 +33,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 ##### Prof MM
 - 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
 - 13-01-22: [IC Technologies - Compound Semiconds](https://youtu.be/2qcF069PvRw)
-- 24-01-22: [IC Tech...](https://youtu.be/SDDNuPYJM4c)
+- 24-01-22: [4 Probe, Hall Effect and Thin Film by Ellipsometer](https://youtu.be/SDDNuPYJM4c)
 
 
 ##### Prof CRC

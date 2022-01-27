@@ -72,6 +72,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ### Digital Elex Lab
 
+- [27-01-22](https://youtu.be/Yow8XS7m4OQ)
+
 ### Microelex Lab
 
 ### Elex Inst and Control Lab

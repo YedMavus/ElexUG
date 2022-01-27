@@ -2,6 +2,7 @@
 
 ## Link to this Site: [https://yedmavus.github.io/ElexUG/](https://yedmavus.github.io/ElexUG/)
 
+## DONOT request access to links that donot open (eg those in Google Drive). They can only be opened using IIEST domain Email ID.
 
 Others are welcome to contribute by adding links, recording links and making the titles of the class rec links better by forking this repositiory and then comitting changes as is done in GitHub.
 [Some links may only be accessible via @students.iiests.ac.in email ID]
@@ -59,6 +60,9 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 20-01-22: [Application of Gauss' Law{contd.}, Potential and Cyl Coords.](https://youtu.be/SJQlbp8Swng)
   - [SV11 Gauss' Law](https://drive.google.com/file/d/1JBqrzYuQ7KkH4BDdVuM1eYHg0IEWaLWV/view?usp=sharing)*
   - 25-01-22: [Poisso's and Laplace eq + Examples](https://youtu.be/xplykXid2Sc)
+  - [SV15 KVL and Electric Potential](https://drive.google.com/file/d/14P7TRw-YPqnFIKd_ScEhUcwGvG3EuftO/view?usp=sharing)*
+  - [SV16 Poisson's and Laplace Eq](https://drive.google.com/file/d/1f0EVGC8UUpACzzPIz76V4y6kt4Yp4Uf8/view?usp=sharing)*
+  - 27-01-22: [KCL, Continuity and Magnetostatics](https://www.youtube.com/watch?v=gKQLQVivxIc)
 
 
 ## Practical Classes

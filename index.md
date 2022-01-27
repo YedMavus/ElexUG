@@ -30,7 +30,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 13-01-22: [Logic Gates and Adders + Practical Intro](https://youtu.be/T9Wfk50bEbM)
 - 19-01-22: [Encoders and Decorders using logic gates](https://youtu.be/_DShoX8hBkw)
 - 20-01-22: [Magnitude Comparators and K Maps intro](https://youtu.be/Ba3BBGZsCEU)
-- 27-01-22: [---------](https://youtu.be/C5wFjzjckBI)
+- 27-01-22: [K-maps and Flip Flops](https://youtu.be/C5wFjzjckBI)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

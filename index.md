@@ -65,6 +65,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV15 KVL and Electric Potential](https://drive.google.com/file/d/14P7TRw-YPqnFIKd_ScEhUcwGvG3EuftO/view?usp=sharing)*
   - [SV16 Poisson's and Laplace Eq](https://drive.google.com/file/d/1f0EVGC8UUpACzzPIz76V4y6kt4Yp4Uf8/view?usp=sharing)*
   - 27-01-22: [KCL, Continuity and Magnetostatics](https://www.youtube.com/watch?v=gKQLQVivxIc)
+  - [SV18 Continuity and KCL](https://drive.google.com/file/d/1P5Aoq5-hV1zilxjKsm1oCQQmf2qA3POO/view?usp=sharing)*
+  - [SV21 Magnetostatics and Hall Effect](https://drive.google.com/file/d/1XcR-f_yL1DlyNix3zxpErKQLwkXYR7VD/view?usp=sharing)*
 
 
 ## Practical Classes

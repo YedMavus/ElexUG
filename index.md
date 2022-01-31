@@ -25,6 +25,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 21-01-22: [Freq response of Amps, FETs and FET Amplifiers](https://youtu.be/StlzfyD4XVE)
 - 24-01-22: [More cacading amps, freq  response etc. missing first 12 mins](https://www.youtube.com/watch?v=1UelWy9ZLTU) / [Alternate Link for full lecture](https://drive.google.com/file/d/1PYAev_SaGArgrnlAa0eFpvcBTyhKOBNm/view?usp=sharing)*
 - 28-01-22: [Cascoded Amplifiers](https://youtu.be/0S4xJyKIrUw)
+- 31-01-22: [New Topic](https://www.youtube.com/watch?v=_s8--Sd5CMo)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)

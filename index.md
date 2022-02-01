@@ -70,11 +70,14 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 27-01-22: [KCL, Continuity and Magnetostatics](https://www.youtube.com/watch?v=gKQLQVivxIc)
   - [SV18 Continuity and KCL](https://drive.google.com/file/d/1P5Aoq5-hV1zilxjKsm1oCQQmf2qA3POO/view?usp=sharing)*
   - [SV21 Magnetostatics and Hall Effect](https://drive.google.com/file/d/1XcR-f_yL1DlyNix3zxpErKQLwkXYR7VD/view?usp=sharing)*
+  - 01-02-22: [- - - - -](https://youtu.be/xiccGKuWwVk)
 
 
 ## Practical Classes
 
 ### Analog Elex Lab
+
+- [01-02-22]()
 
 ### Digital Elex Lab
 

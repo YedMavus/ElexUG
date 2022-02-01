@@ -77,7 +77,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ### Analog Elex Lab
 
-- [01-02-22]()
+- [01-02-22](https://youtu.be/Xw1uPDsBtlA)
 
 ### Digital Elex Lab
 

@@ -56,6 +56,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 ##### Prof CRC
 - 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk)*
 - 25-01-22: [control basics and loops](https://drive.google.com/file/d/1IPo39jSZbC0WJQLQkvDGLfBlr2vUYf3O/view?usp=sharing)*
+- 01-02-22: [Topic??](https://www.youtube.com/watch?v=MGQoKuP1Ewc)
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)

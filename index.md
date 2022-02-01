@@ -64,7 +64,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 18-01-22: [Application and non-Aplication of Gauss' Law](https://youtu.be/Ho11EwMpV6o)
   - 20-01-22: [Application of Gauss' Law{contd.}, Potential and Cyl Coords.](https://youtu.be/SJQlbp8Swng)
   - [SV11 Gauss' Law](https://drive.google.com/file/d/1JBqrzYuQ7KkH4BDdVuM1eYHg0IEWaLWV/view?usp=sharing)*
-  - 25-01-22: [Poisso's and Laplace eq + Examples](https://youtu.be/xplykXid2Sc)
+  - 25-01-22: [Poisson's and Laplace eq + Examples](https://youtu.be/xplykXid2Sc)
   - [SV15 KVL and Electric Potential](https://drive.google.com/file/d/14P7TRw-YPqnFIKd_ScEhUcwGvG3EuftO/view?usp=sharing)*
   - [SV16 Poisson's and Laplace Eq](https://drive.google.com/file/d/1f0EVGC8UUpACzzPIz76V4y6kt4Yp4Uf8/view?usp=sharing)*
   - 27-01-22: [KCL, Continuity and Magnetostatics](https://www.youtube.com/watch?v=gKQLQVivxIc)

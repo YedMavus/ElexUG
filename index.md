@@ -72,6 +72,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV18 Continuity and KCL](https://drive.google.com/file/d/1P5Aoq5-hV1zilxjKsm1oCQQmf2qA3POO/view?usp=sharing)*
   - [SV21 Magnetostatics and Hall Effect](https://drive.google.com/file/d/1XcR-f_yL1DlyNix3zxpErKQLwkXYR7VD/view?usp=sharing)*
   - 01-02-22: [Magnetostatics, Ampere and Gauss](https://youtu.be/xiccGKuWwVk)
+  - 02-02-22: [Gauss, Lenz, Faraday's Laws of Magnetism / Magstatic Field](https://www.youtube.com/watch?v=fjskgdJ0hAY)
 
 
 ## Practical Classes

@@ -34,6 +34,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 20-01-22: [Magnitude Comparators and K Maps intro](https://youtu.be/Ba3BBGZsCEU)
 - 27-01-22: [K-maps and Flip Flops](https://youtu.be/C5wFjzjckBI)
 - 02-02-22: [Flip Flop Delays, JK Ff, etc](https://youtu.be/Gw3KW52DM4Q)
+- 03-02-22: [-------](https://youtu.be/F604uh6K-2Y)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

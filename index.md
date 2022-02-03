@@ -75,6 +75,9 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV21 Magnetostatics and Hall Effect](https://drive.google.com/file/d/1XcR-f_yL1DlyNix3zxpErKQLwkXYR7VD/view?usp=sharing)*
   - 01-02-22: [Magnetostatics, Ampere and Gauss](https://youtu.be/xiccGKuWwVk)
   - 02-02-22: [Gauss, Lenz, Faraday's Laws of Magnetism / Magstatic Field](https://www.youtube.com/watch?v=fjskgdJ0hAY)
+  - [SV24 Ampere's and Gauss' Law Maxwell Static](https://drive.google.com/file/d/1PNaZLdd5koIMsh-Vz-hZI-HPYwjPxpW-/view?usp=sharing)*
+  - [SV31 Faraday's Law](https://drive.google.com/file/d/1toNVmPnMHIwVBk-_2xwpzbEXmGkBLJa_/view?usp=sharing)*
+  - [SV34 Incinsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)*
 
 
 ## Practical Classes

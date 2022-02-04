@@ -54,6 +54,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
 - 21-01-22: [Measurement Standards and Errors](https://youtu.be/iKjajEfVepo)
 - 28-01-22: [Sensors and Transducers](https://www.youtube.com/watch?v=8QAzxgBbqiY)
+- 04-02-22: [Sensors, Linear Variable Diffrential Transducer, etc](https://youtu.be/41LkCCIdIFU)
 
 
 ##### Prof CRC

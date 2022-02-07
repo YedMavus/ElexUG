@@ -42,7 +42,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 13-01-22: [IC Technologies - Compound Semiconds](https://youtu.be/2qcF069PvRw)
 - 24-01-22: [4 Probe, Hall Effect and Thin Film by Ellipsometer, Module 2: Si growth and crystal growth](https://youtu.be/SDDNuPYJM4c)
 - 31-01-22: [Crystal Growth and Cz Method](https://youtu.be/dtDlGWf_lRw)
-- 07-02-22: [FloatZone Technique](https://www.youtube.com/watch?v=mwDAhS8X6TA)
+- 07-02-22: [FloatZone Technique, Diffisuin{new module}](https://www.youtube.com/watch?v=mwDAhS8X6TA)
 
 
 ##### Prof CRC

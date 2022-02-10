@@ -36,6 +36,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 27-01-22: [K-maps and Flip Flops](https://youtu.be/C5wFjzjckBI)
 - 02-02-22: [Flip Flop Delays, JK Ff, etc](https://youtu.be/Gw3KW52DM4Q)
 - 03-02-22: [Binary Counter, JK Flipflops etc](https://youtu.be/F604uh6K-2Y)
+- 09-02-22: [Controlled up down synchronus counter, ripple counter, modulo 5 counter etc.](https://youtu.be/bwE73xXhjnw) {Credits AP}
+- 10-02-22: [D flipflop, conversation of JK D flipflop to T etc](https://youtu.be/bDez1o7i4kg){Credits AP}
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
@@ -48,7 +50,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ##### Prof CRC
 - 22-01-22: [Sub Intro](https://drive.google.com/file/d/1NcdlAWTy9YEqp5J1qjdZD4RAiDNuEf-_/view?usp=sharing)*
-- 02-02-22: [Class on 2-2-22](https://drive.google.com/file/d/1lngSpTggLcWfAfSZ5UsEYbbjovAfsxbm/view?usp=sharing)* {Credits Ayan}
+- 02-02-22: [Class on 2-2-22](https://drive.google.com/file/d/1lngSpTggLcWfAfSZ5UsEYbbjovAfsxbm/view?usp=sharing)* {Credits AP}
+- 09-02-22: [Class on 9-2-22](https://youtu.be/bhQrNrrK-94) {Credits PS}
 
 
 ### Elex Instrumentation and Control [MM, CRC]

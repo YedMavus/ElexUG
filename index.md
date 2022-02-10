@@ -82,6 +82,9 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV24 Ampere's and Gauss' Law Maxwell Static](https://drive.google.com/file/d/1PNaZLdd5koIMsh-Vz-hZI-HPYwjPxpW-/view?usp=sharing)*
   - [SV31 Faraday's Law](https://drive.google.com/file/d/1toNVmPnMHIwVBk-_2xwpzbEXmGkBLJa_/view?usp=sharing)*
   - [SV34 Inconsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)*
+  - 10-02-22: [Boundary Conditions for Electro and Magnetic Fields](https://youtu.be/rYwDgLL-hkI)
+  - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
+  - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)*
 
 
 ## Practical Classes
@@ -95,6 +98,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 - [27-01-22](https://youtu.be/Yow8XS7m4OQ)
 - [03-02-22](https://youtu.be/ulVRo_GOIUQ)
+- [10-02-22](https://youtu.be/bBGMwdx4T_E)
 
 ### Microelex Lab
 

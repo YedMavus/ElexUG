@@ -27,6 +27,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 28-01-22: [Cascoded Amplifiers](https://youtu.be/0S4xJyKIrUw)
 - 31-01-22: [New Topic](https://www.youtube.com/watch?v=_s8--Sd5CMo)
 - 07-02-22: [Advantage of Negative Feedback](https://youtu.be/kZ_NwEo__CI)
+- 11-02-22: [Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)

@@ -27,7 +27,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 28-01-22: [Cascoded Amplifiers](https://youtu.be/0S4xJyKIrUw)
 - 31-01-22: [New Topic](https://www.youtube.com/watch?v=_s8--Sd5CMo)
 - 07-02-22: [Advantage of Negative Feedback](https://youtu.be/kZ_NwEo__CI)
-- 11-02-22: [Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
+- 11-02-22: [Negative feedback, Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
+- 14-02-22: [Positive Feedback, Sinusoidal Oscillators](https://www.youtube.com/watch?v=nV4Lb7xnQVE)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
@@ -47,7 +48,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 24-01-22: [4 Probe, Hall Effect and Thin Film by Ellipsometer, Module 2: Si growth and crystal growth](https://youtu.be/SDDNuPYJM4c)
 - 31-01-22: [Crystal Growth and Cz Method](https://youtu.be/dtDlGWf_lRw)
 - 07-02-22: [FloatZone Technique, Diffisuin{new module}](https://www.youtube.com/watch?v=mwDAhS8X6TA)
-- 14-02-22: [_____________](https://youtu.be/hLDWeJ3T9ks)
+- 14-02-22: [Fick's Laws, Diffusion in Semicond Crystals](https://youtu.be/hLDWeJ3T9ks)
 
 
 ##### Prof CRC

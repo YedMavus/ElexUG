@@ -92,6 +92,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 10-02-22: [Boundary Conditions for Electro and Magnetic Fields](https://youtu.be/rYwDgLL-hkI)
   - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
   - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)*
+  - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
 
 
 ## Practical Classes
@@ -120,5 +121,5 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/yedmavus/count.svg)
-
+[.](https://github.com/YedMavus/ElexUG/edit/gh-pages/index.md)
 ###### *GSuite ID needed

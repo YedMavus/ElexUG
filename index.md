@@ -41,7 +41,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 09-02-22: [Controlled up down synchronus counter, ripple counter, modulo 5 counter etc.](https://youtu.be/bwE73xXhjnw) {Credits AP}
 - 10-02-22: [D flipflop, conversation of JK D flipflop to T etc, Toggling](https://youtu.be/bDez1o7i4kg){Credits AP}
 - 16-02-22: [Arbitrary Counters, Ring and Johnson Counters](https://youtu.be/l_lYU5tSVnU)
-- 17-02-22: [Sequence Generator,](https://youtu.be/kCBiQBkMkao)
+- 17-02-22: [Sequence Generator, Serial Register and Signed Binary Number Systems (intro)](https://youtu.be/kCBiQBkMkao)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
@@ -95,7 +95,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
   - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)*
   - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
-  - 17-02-22: [-------](https://youtu.be/0t6pPAYLoow)
+  - 17-02-22: [EM Wave propagation and Wave eq](https://youtu.be/0t6pPAYLoow)
 
 
 ## Practical Classes

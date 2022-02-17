@@ -94,6 +94,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
   - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)*
   - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
+  - 17-02-22: [-------](https://youtu.be/0t6pPAYLoow)
 
 
 ## Practical Classes

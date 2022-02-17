@@ -41,6 +41,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 09-02-22: [Controlled up down synchronus counter, ripple counter, modulo 5 counter etc.](https://youtu.be/bwE73xXhjnw) {Credits AP}
 - 10-02-22: [D flipflop, conversation of JK D flipflop to T etc, Toggling](https://youtu.be/bDez1o7i4kg){Credits AP}
 - 16-02-22: [Arbitrary Counters, Ring and Johnson Counters](https://youtu.be/l_lYU5tSVnU)
+- 17-02-22: [Sequence Generator,](https://youtu.be/kCBiQBkMkao)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

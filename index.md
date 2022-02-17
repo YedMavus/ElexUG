@@ -111,6 +111,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - [27-01-22](https://youtu.be/Yow8XS7m4OQ)
 - [03-02-22](https://youtu.be/ulVRo_GOIUQ)
 - [10-02-22](https://youtu.be/bBGMwdx4T_E)
+- [17-02-22](https://youtu.be/I1FWT4BOJA0)
 
 ### Microelex Lab
 

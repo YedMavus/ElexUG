@@ -29,6 +29,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 07-02-22: [Advantage of Negative Feedback](https://youtu.be/kZ_NwEo__CI)
 - 11-02-22: [Negative feedback, Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
 - 14-02-22: [Positive Feedback, Sinusoidal Oscillators](https://www.youtube.com/watch?v=nV4Lb7xnQVE)
+- 18-02-22: [?](https://youtu.be/wLkggJxqIkQ)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)

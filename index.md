@@ -66,6 +66,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 28-01-22: [Sensors and Transducers](https://www.youtube.com/watch?v=8QAzxgBbqiY)
 - 04-02-22: [Sensors, Linear Variable Diffrential Transducer, etc](https://youtu.be/41LkCCIdIFU)
 - 11-02-22: [Analog Inst. Measurements - Wattmeter, LCR, Q meterm Ohmmeter starting](https://youtu.be/wlzKBuRWOKw)
+- 18-02-22: [Ohmmeter, Multimeter](https://youtu.be/4UO_zdJxv4k)
 
 
 ##### Prof CRC

@@ -29,7 +29,10 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 07-02-22: [Advantage of Negative Feedback](https://youtu.be/kZ_NwEo__CI)
 - 11-02-22: [Negative feedback, Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
 - 14-02-22: [Positive Feedback, Sinusoidal Oscillators](https://www.youtube.com/watch?v=nV4Lb7xnQVE)
-- 18-02-22: [?](https://youtu.be/wLkggJxqIkQ)
+
+##### Prof PB
+- 18-02-22: [MOS Circuits Intro single stage amp](https://youtu.be/wLkggJxqIkQ)
+- 21-02-22: [AC Behaviour in MOS, CS Stage with Source Degradation](https://youtu.be/8IpLm6hgwI0)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)

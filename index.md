@@ -102,6 +102,9 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)*
   - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
   - 17-02-22: [EM Wave propagation and Wave eq](https://youtu.be/0t6pPAYLoow)
+  - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)*
+  - [SV42 EM Waves_2](https://drive.google.com/file/d/1wc_iIM7p1TxE0813xxorLvKNptcrDT1n/view?usp=sharing)*
+  - 22-02-22: [Time Varying Harmonics](https://youtu.be/I0yyCaYiyZs)
 
 
 ## Practical Classes

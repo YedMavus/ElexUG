@@ -46,6 +46,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 10-02-22: [D flipflop, conversation of JK D flipflop to T etc, Toggling](https://youtu.be/bDez1o7i4kg){Credits AP}
 - 16-02-22: [Arbitrary Counters, Ring and Johnson Counters](https://youtu.be/l_lYU5tSVnU)
 - 17-02-22: [Sequence Generator, Serial Register and Signed Binary Number Systems (intro)](https://youtu.be/kCBiQBkMkao)
+- 23-02-22: [----](https://youtu.be/qIBpjsx_LuY)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

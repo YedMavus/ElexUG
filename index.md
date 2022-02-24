@@ -47,6 +47,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 16-02-22: [Arbitrary Counters, Ring and Johnson Counters](https://youtu.be/l_lYU5tSVnU)
 - 17-02-22: [Sequence Generator, Serial Register and Signed Binary Number Systems (intro)](https://youtu.be/kCBiQBkMkao)
 - 23-02-22: [Controlled Adder / Subtracter, Complementer and Multipliers](https://youtu.be/qIBpjsx_LuY)
+- 24-02-22: [Multiplier extended](https://www.youtube.com/watch?v=FgioXC-fbIA)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

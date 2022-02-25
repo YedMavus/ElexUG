@@ -74,6 +74,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 04-02-22: [Sensors, Linear Variable Diffrential Transducer, etc](https://youtu.be/41LkCCIdIFU)
 - 11-02-22: [Analog Inst. Measurements - Wattmeter, LCR, Q meterm Ohmmeter starting](https://youtu.be/wlzKBuRWOKw)
 - 18-02-22: [Ohmmeter, Multimeter](https://youtu.be/4UO_zdJxv4k)
+- 25-02-22: [AC Voltmeter, Internal Circuit of multimeter - analog and digital, CRO ](https://www.youtube.com/watch?v=o6IaeJKffy4)
 
 
 ##### Prof CRC

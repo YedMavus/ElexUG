@@ -33,6 +33,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 ##### Prof PB
 - 18-02-22: [MOS Circuits Intro single stage amp](https://youtu.be/wLkggJxqIkQ)
 - 21-02-22: [AC Behaviour in MOS, CS Stage with Source Degradation](https://youtu.be/8IpLm6hgwI0)
+- 25-02-22: [Cascode MOS](https://www.youtube.com/watch?v=f3h3FLsUBkQ)
 
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)

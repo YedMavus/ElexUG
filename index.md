@@ -35,6 +35,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 21-02-22: [AC Behaviour in MOS, CS Stage with Source Degradation](https://youtu.be/8IpLm6hgwI0)
 - 25-02-22: [Cascode MOS](https://www.youtube.com/watch?v=f3h3FLsUBkQ)
 
+
 ### Digital Elex [AB]
 - 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
 - 13-01-22: [Logic Gates and Adders + Practical Intro](https://youtu.be/T9Wfk50bEbM)
@@ -109,6 +110,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)*
   - [SV42 EM Waves_2](https://drive.google.com/file/d/1wc_iIM7p1TxE0813xxorLvKNptcrDT1n/view?usp=sharing)*
   - 22-02-22: [Time Varying Harmonics](https://youtu.be/I0yyCaYiyZs)
+  - [SV43 EM Waves_3](https://drive.google.com/file/d/18_35-7mWQoNe1eGoc9Wg0GL1SVucw3jR/view?usp=sharing)*
 
 
 ## Practical Classes

@@ -60,7 +60,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 07-02-22: [FloatZone Technique, Diffisuin{new module}](https://www.youtube.com/watch?v=mwDAhS8X6TA)
 - 14-02-22: [Fick's Laws, Diffusion in Semicond Crystals](https://youtu.be/hLDWeJ3T9ks)
 - 21-02-22: [Metallisation (starting)](https://youtu.be/ksRFO-PnGqA)
-- 28-02-22: [---](https://youtu.be/zXYcTLPdx5U)
+- 28-02-22: [Metallisation techniques - end of Midsem syll](https://youtu.be/zXYcTLPdx5U)
 
 
 ##### Prof CRC

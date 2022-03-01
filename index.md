@@ -123,6 +123,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - [01-02-22](https://youtu.be/Xw1uPDsBtlA)
 - [08-02-22](https://youtu.be/IgEo24vZkB0)
 - [15-02-22](https://youtu.be/7SL-MZVLq-o)
+- [01-03-22](https://youtu.be/TMc-AgrfFIg)
 
 ### Digital Elex Lab
 

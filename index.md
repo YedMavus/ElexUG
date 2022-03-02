@@ -51,6 +51,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 17-02-22: [Sequence Generator, Serial Register and Signed Binary Number Systems (intro)](https://youtu.be/kCBiQBkMkao)
 - 23-02-22: [Controlled Adder / Subtracter, Complementer and Multipliers](https://youtu.be/qIBpjsx_LuY)
 - 24-02-22: [Multiplier extended](https://www.youtube.com/watch?v=FgioXC-fbIA)
+- 02-03-22: [Signed Multiplication](https://youtu.be/15QL_Cm8j8M)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM

@@ -116,6 +116,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV43 EM Waves_3](https://drive.google.com/file/d/18_35-7mWQoNe1eGoc9Wg0GL1SVucw3jR/view?usp=sharing)*
   - [EMT - Skin Effect, Skin depth and depth of penetration](https://youtu.be/Zf6rftvn2mU)
   - [SV55 - Skin Effect](https://drive.google.com/file/d/1cPGn9FoRr46gtgYYwdIKuqJG4rXg2OkQ/view?usp=sharing)*
+  - 03-03-22: [---](https://youtu.be/YqEzOiolN_0)
 
 
 ## Practical Classes

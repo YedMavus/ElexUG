@@ -52,6 +52,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 23-02-22: [Controlled Adder / Subtracter, Complementer and Multipliers](https://youtu.be/qIBpjsx_LuY)
 - 24-02-22: [Multiplier extended](https://www.youtube.com/watch?v=FgioXC-fbIA)
 - 02-03-22: [Signed Multiplication](https://youtu.be/15QL_Cm8j8M)
+- 03-03-22: [CMOS in Digital Circuit](https://youtu.be/UBrQWh224v4)
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
@@ -116,7 +117,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV43 EM Waves_3](https://drive.google.com/file/d/18_35-7mWQoNe1eGoc9Wg0GL1SVucw3jR/view?usp=sharing)*
   - [EMT - Skin Effect, Skin depth and depth of penetration](https://youtu.be/Zf6rftvn2mU)
   - [SV55 - Skin Effect](https://drive.google.com/file/d/1cPGn9FoRr46gtgYYwdIKuqJG4rXg2OkQ/view?usp=sharing)*
-  - 03-03-22: [---](https://youtu.be/YqEzOiolN_0)
+  - 03-03-22: [Poynting Th, Reflection and Refraction of Plane waves](https://youtu.be/YqEzOiolN_0)
 
 
 ## Practical Classes

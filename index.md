@@ -34,7 +34,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 18-02-22: [MOS Circuits Intro single stage amp](https://youtu.be/wLkggJxqIkQ)
 - 21-02-22: [AC Behaviour in MOS, CS Stage with Source Degradation](https://youtu.be/8IpLm6hgwI0)
 - 25-02-22: [Cascode MOS](https://www.youtube.com/watch?v=f3h3FLsUBkQ)
-- 28-02-22: [Swtiched Capacitors](https://youtu.be/KT4uir_tQt8)
+- 28-02-22: [Swtiched Capacitors](https://youtu.be/KT4uir_tQt8) **Till here for midsem**
+- 04-03-22: [Current Mirror](https://youtu.be/wWPUBJjZlWM)
 
 
 ### Digital Elex [AB]

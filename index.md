@@ -49,7 +49,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 09-02-22: [Controlled up down synchronus counter, ripple counter, modulo 5 counter etc.](https://youtu.be/bwE73xXhjnw) {Credits AP}
 - 10-02-22: [D flipflop, conversation of JK D flipflop to T etc, Toggling](https://youtu.be/bDez1o7i4kg){Credits AP}
 - 16-02-22: [Arbitrary Counters, Ring and Johnson Counters](https://youtu.be/l_lYU5tSVnU)
-- 17-02-22: [Sequence Generator, Serial Register and Signed Binary Number Systems (intro)](https://youtu.be/kCBiQBkMkao)
+- 17-02-22: [Sequence Generator, Serial Register and Signed Binary Number Systems (intro)](https://youtu.be/kCBiQBkMkao) **Till here for Midsem**
 - 23-02-22: [Controlled Adder / Subtracter, Complementer and Multipliers](https://youtu.be/qIBpjsx_LuY)
 - 24-02-22: [Multiplier extended](https://www.youtube.com/watch?v=FgioXC-fbIA)
 - 02-03-22: [Signed Multiplication](https://youtu.be/15QL_Cm8j8M)
@@ -71,6 +71,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 22-01-22: [Sub Intro](https://drive.google.com/file/d/1NcdlAWTy9YEqp5J1qjdZD4RAiDNuEf-_/view?usp=sharing)*
 - 02-02-22: [Class on 2-2-22](https://drive.google.com/file/d/1lngSpTggLcWfAfSZ5UsEYbbjovAfsxbm/view?usp=sharing)* {Credits AP}
 - 09-02-22: [Class on 9-2-22](https://youtu.be/bhQrNrrK-94) {Credits PS}
+- Rest Recording not available.
 
 
 ### Elex Instrumentation and Control [MM, CRC]
@@ -81,13 +82,14 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 04-02-22: [Sensors, Linear Variable Diffrential Transducer, etc](https://youtu.be/41LkCCIdIFU)
 - 11-02-22: [Analog Inst. Measurements - Wattmeter, LCR, Q meterm Ohmmeter starting](https://youtu.be/wlzKBuRWOKw)
 - 18-02-22: [Ohmmeter, Multimeter](https://youtu.be/4UO_zdJxv4k)
-- 25-02-22: [AC Voltmeter, Internal Circuit of multimeter - analog and digital, CRO ](https://www.youtube.com/watch?v=o6IaeJKffy4)
+- 25-02-22: [AC Voltmeter, Internal Circuit of multimeter - analog and digital, CRO ](https://www.youtube.com/watch?v=o6IaeJKffy4) **Till here for Midsem**
 
 
 ##### Prof CRC
 - 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk)*
 - 25-01-22: [control basics and loops](https://drive.google.com/file/d/1IPo39jSZbC0WJQLQkvDGLfBlr2vUYf3O/view?usp=sharing)*
 - 01-02-22: [Topic??](https://www.youtube.com/watch?v=MGQoKuP1Ewc)
+- Rest recording not available.
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)

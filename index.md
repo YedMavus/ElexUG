@@ -1,6 +1,6 @@
 # Sem 4: Class Recording Links including YouTube Playlists and GDrive 
 
-## Link to this Site: [https://yedmavus.github.io/ElexUG/](https://yedmavus.github.io/ElexUG/)
+#### Link to this Site: [https://yedmavus.github.io/ElexUG/](https://yedmavus.github.io/ElexUG/)
 
 ## DONOT request access to links that donot open (eg those in Google Drive). They can only be opened using IIEST domain Email ID.
 
@@ -64,7 +64,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 07-02-22: [FloatZone Technique, Diffisuin{new module}](https://www.youtube.com/watch?v=mwDAhS8X6TA)
 - 14-02-22: [Fick's Laws, Diffusion in Semicond Crystals](https://youtu.be/hLDWeJ3T9ks)
 - 21-02-22: [Metallisation (starting)](https://youtu.be/ksRFO-PnGqA)
-- 28-02-22: [Metallisation techniques - end of Midsem syll](https://youtu.be/zXYcTLPdx5U)
+- 28-02-22: [Metallisation techniques](https://youtu.be/zXYcTLPdx5U) **Till here for Midsem**
 
 
 ##### Prof CRC
@@ -111,7 +111,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV34 Inconsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)*
   - 10-02-22: [Boundary Conditions for Electro and Magnetic Fields](https://youtu.be/rYwDgLL-hkI)
   - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
-  - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)*
+  - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)* **Till Here for Midsem**
   - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
   - 17-02-22: [EM Wave propagation and Wave eq](https://youtu.be/0t6pPAYLoow)
   - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)*

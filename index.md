@@ -2,8 +2,6 @@
 
 
 
-## **Important Update:** Change of exam Timings - check [https://www.iiests.ac.in/assets/images/notifications/Midtermexam%20reschedule.pdf](https://www.iiests.ac.in/assets/images/notifications/Midtermexam%20reschedule.pdf)
-
 #### Link to this Site: [https://yedmavus.github.io/ElexUG/](https://yedmavus.github.io/ElexUG/)
 
 ## DONOT request access to links that donot open (eg those in Google Drive). They can only be opened using IIEST domain Email ID.

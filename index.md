@@ -128,7 +128,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [EMT - Skin Effect, Skin depth and depth of penetration](https://youtu.be/Zf6rftvn2mU)
   - [SV55 - Skin Effect](https://drive.google.com/file/d/1cPGn9FoRr46gtgYYwdIKuqJG4rXg2OkQ/view?usp=sharing)*
   - 03-03-22: [Poynting Th, Reflection and Refraction of Plane waves](https://youtu.be/YqEzOiolN_0)
-  - 22-03-22: [?](https://youtu.be/-IjklmVjJKE)
+  - 22-03-22: [Absorption of Waves, Standing Waves](https://youtu.be/-IjklmVjJKE)
 
 
 

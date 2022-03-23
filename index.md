@@ -60,7 +60,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 24-02-22: [Multiplier extended](https://www.youtube.com/watch?v=FgioXC-fbIA)
 - 02-03-22: [Signed Multiplication](https://youtu.be/15QL_Cm8j8M)
 - 03-03-22: [CMOS in Digital Circuit](https://youtu.be/UBrQWh224v4)
-
+- 23-03-22: [..](https://youtu.be/kLBeoiUcHwc)
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
 - 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
@@ -142,6 +142,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - [08-02-22](https://youtu.be/IgEo24vZkB0)
 - [15-02-22](https://youtu.be/7SL-MZVLq-o)
 - [01-03-22](https://youtu.be/TMc-AgrfFIg)
+- [22-03-22](https://www.youtube.com/watch?v=BDmlLr6rf2U)
 
 ### Digital Elex Lab
 

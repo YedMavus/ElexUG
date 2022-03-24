@@ -61,6 +61,11 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 02-03-22: [Signed Multiplication](https://youtu.be/15QL_Cm8j8M)
 - 03-03-22: [CMOS in Digital Circuit](https://youtu.be/UBrQWh224v4)
 - 23-03-22: [CMOS Switch, Binary Unit, Transmission Gates ](https://youtu.be/kLBeoiUcHwc)
+- 24-03-22: [///](https://youtu.be/j5YXOG27BSs)
+
+
+
+
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
 - 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)

@@ -42,6 +42,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 25-02-22: [Cascode MOS](https://www.youtube.com/watch?v=f3h3FLsUBkQ)
 - 28-02-22: [Swtiched Capacitors](https://youtu.be/KT4uir_tQt8) **Till here for midsem**
 - 04-03-22: [Current Mirror](https://youtu.be/wWPUBJjZlWM)
+- 25-03-22: [Differencial Amplifiers](https://youtu.be/2S2c3izx9pk)
 
 
 ### Digital Elex [AB]

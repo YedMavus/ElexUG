@@ -96,6 +96,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 11-02-22: [Analog Inst. Measurements - Wattmeter, LCR, Q meterm Ohmmeter starting](https://youtu.be/wlzKBuRWOKw)
 - 18-02-22: [Ohmmeter, Multimeter](https://youtu.be/4UO_zdJxv4k)
 - 25-02-22: [AC Voltmeter, Internal Circuit of multimeter - analog and digital, CRO ](https://www.youtube.com/watch?v=o6IaeJKffy4) **Till here for Midsem**
+- 25-03-22: [CRO](https://youtu.be/3SvvDnit5wg)
 
 
 ##### Prof CRC

@@ -165,6 +165,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ### Elex Inst and Control Lab
 
+- [25-03-22](https://youtu.be/wKsHyZbEXCM)
+
 [_](https://github.com/YedMavus/ElexUG/edit/gh-pages/index.md)
 
 

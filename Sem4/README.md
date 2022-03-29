@@ -2,8 +2,6 @@
 
 
 
-## **Important Update:** Change of exam Timings - check [https://www.iiests.ac.in/assets/images/notifications/Midtermexam%20reschedule.pdf](https://www.iiests.ac.in/assets/images/notifications/Midtermexam%20reschedule.pdf)
-
 #### Link to this Site: [https://yedmavus.github.io/ElexUG/](https://yedmavus.github.io/ElexUG/)
 
 ## DONOT request access to links that donot open (eg those in Google Drive). They can only be opened using IIEST domain Email ID.
@@ -36,6 +34,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 07-02-22: [Advantage of Negative Feedback](https://youtu.be/kZ_NwEo__CI)
 - 11-02-22: [Negative feedback, Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
 - 14-02-22: [Positive Feedback, Sinusoidal Oscillators](https://www.youtube.com/watch?v=nV4Lb7xnQVE)
+- 21-03-22: [Sine Oscillators](https://youtu.be/J6w3sjJ7bS4)
 
 ##### Prof PB
 - 18-02-22: [MOS Circuits Intro single stage amp](https://youtu.be/wLkggJxqIkQ)
@@ -43,6 +42,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 25-02-22: [Cascode MOS](https://www.youtube.com/watch?v=f3h3FLsUBkQ)
 - 28-02-22: [Swtiched Capacitors](https://youtu.be/KT4uir_tQt8) **Till here for midsem**
 - 04-03-22: [Current Mirror](https://youtu.be/wWPUBJjZlWM)
+- 25-03-22: [Differential Amplifiers](https://youtu.be/2S2c3izx9pk)
 
 
 ### Digital Elex [AB]
@@ -61,6 +61,11 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 24-02-22: [Multiplier extended](https://www.youtube.com/watch?v=FgioXC-fbIA)
 - 02-03-22: [Signed Multiplication](https://youtu.be/15QL_Cm8j8M)
 - 03-03-22: [CMOS in Digital Circuit](https://youtu.be/UBrQWh224v4)
+- 23-03-22: [CMOS Switch, Binary Unit, Transmission Gates ](https://youtu.be/kLBeoiUcHwc)
+- 24-03-22: [Digital Transistor Logic](https://youtu.be/j5YXOG27BSs)
+
+
+
 
 ### Microelex Tech [MM, CRC]
 ##### Prof MM
@@ -72,12 +77,14 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 14-02-22: [Fick's Laws, Diffusion in Semicond Crystals](https://youtu.be/hLDWeJ3T9ks)
 - 21-02-22: [Metallisation (starting)](https://youtu.be/ksRFO-PnGqA)
 - 28-02-22: [Metallisation techniques](https://youtu.be/zXYcTLPdx5U) **Till here for Midsem**
+- 22-03-22: [Ion Implantation Starting](https://youtu.be/xXoX5UQ1lT8)
 
 
 ##### Prof CRC
 - 22-01-22: [Sub Intro](https://drive.google.com/file/d/1NcdlAWTy9YEqp5J1qjdZD4RAiDNuEf-_/view?usp=sharing)*
 - 02-02-22: [Class on 2-2-22](https://drive.google.com/file/d/1lngSpTggLcWfAfSZ5UsEYbbjovAfsxbm/view?usp=sharing)* {Credits AP}
 - 09-02-22: [Class on 9-2-22](https://youtu.be/bhQrNrrK-94) {Credits PS}
+- 22-03-22: [Root Locus, Bode Plots Starting](https://youtu.be/lSRCs4NjaQs)
 - Rest Recording not available.
 
 
@@ -90,12 +97,14 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 11-02-22: [Analog Inst. Measurements - Wattmeter, LCR, Q meterm Ohmmeter starting](https://youtu.be/wlzKBuRWOKw)
 - 18-02-22: [Ohmmeter, Multimeter](https://youtu.be/4UO_zdJxv4k)
 - 25-02-22: [AC Voltmeter, Internal Circuit of multimeter - analog and digital, CRO ](https://www.youtube.com/watch?v=o6IaeJKffy4) **Till here for Midsem**
+- 25-03-22: [CRO](https://youtu.be/3SvvDnit5wg)
 
 
 ##### Prof CRC
 - 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk)*
 - 25-01-22: [control basics and loops](https://drive.google.com/file/d/1IPo39jSZbC0WJQLQkvDGLfBlr2vUYf3O/view?usp=sharing)*
 - 01-02-22: [Topic??](https://www.youtube.com/watch?v=MGQoKuP1Ewc)
+- [23-03-22](https://youtu.be/ImhHMCmG3Cw)
 - Rest recording not available.
 
 ### Elex Theory and Radio Wave Propagation [SD]
@@ -128,6 +137,10 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [EMT - Skin Effect, Skin depth and depth of penetration](https://youtu.be/Zf6rftvn2mU)
   - [SV55 - Skin Effect](https://drive.google.com/file/d/1cPGn9FoRr46gtgYYwdIKuqJG4rXg2OkQ/view?usp=sharing)*
   - 03-03-22: [Poynting Th, Reflection and Refraction of Plane waves](https://youtu.be/YqEzOiolN_0)
+  - 22-03-22: [Absorption of Waves, Standing Waves](https://youtu.be/-IjklmVjJKE)
+  - [SV61 Reflection and Refraction](https://drive.google.com/file/d/1Y_Rwciw5ewzb4gQmKyHuQL_Amb2f-HIO/view)
+  - 24-03-22: [Oblique Incidence](https://youtu.be/a1yTMwEZJ-M)
+  - 29-03-22: [Parallel Vertical Polarisation](https://youtu.be/B8VtmUItWqw)
 
 
 
@@ -140,6 +153,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - [08-02-22](https://youtu.be/IgEo24vZkB0)
 - [15-02-22](https://youtu.be/7SL-MZVLq-o)
 - [01-03-22](https://youtu.be/TMc-AgrfFIg)
+- [22-03-22](https://www.youtube.com/watch?v=BDmlLr6rf2U)
 
 ### Digital Elex Lab
 
@@ -151,6 +165,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 ### Microelex Lab
 
 ### Elex Inst and Control Lab
+
+- [25-03-22](https://youtu.be/wKsHyZbEXCM)
 
 [_](https://github.com/YedMavus/ElexUG/edit/gh-pages/index.md)
 

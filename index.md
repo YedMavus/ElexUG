@@ -105,6 +105,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 25-01-22: [control basics and loops](https://drive.google.com/file/d/1IPo39jSZbC0WJQLQkvDGLfBlr2vUYf3O/view?usp=sharing)*
 - 01-02-22: [Topic??](https://www.youtube.com/watch?v=MGQoKuP1Ewc)
 - [23-03-22](https://youtu.be/ImhHMCmG3Cw)
+- [29-03-22](https://youtu.be/g5yG9zj9_ks)
 - Rest recording not available.
 
 ### Elex Theory and Radio Wave Propagation [SD]

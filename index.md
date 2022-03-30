@@ -63,7 +63,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 03-03-22: [CMOS in Digital Circuit](https://youtu.be/UBrQWh224v4)
 - 23-03-22: [CMOS Switch, Binary Unit, Transmission Gates ](https://youtu.be/kLBeoiUcHwc)
 - 24-03-22: [Digital Transistor Logic](https://youtu.be/j5YXOG27BSs)
-- 30-03-22: [..](https://youtu.be/u-Fp55jM0Uk)
+- 30-03-22: [DTL Fanout etc continued](https://youtu.be/u-Fp55jM0Uk)
 
 
 

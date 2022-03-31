@@ -64,6 +64,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 23-03-22: [CMOS Switch, Binary Unit, Transmission Gates ](https://youtu.be/kLBeoiUcHwc)
 - 24-03-22: [Digital Transistor Logic](https://youtu.be/j5YXOG27BSs)
 - 30-03-22: [DTL Fanout etc continued, TTL Started](https://youtu.be/u-Fp55jM0Uk)
+- 31-03-22: [..](https://youtu.be/RQeYplFmnes)
 
 
 

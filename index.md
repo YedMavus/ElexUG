@@ -86,7 +86,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 22-01-22: [Sub Intro](https://drive.google.com/file/d/1NcdlAWTy9YEqp5J1qjdZD4RAiDNuEf-_/view?usp=sharing)*
 - 02-02-22: [Class on 2-2-22](https://drive.google.com/file/d/1lngSpTggLcWfAfSZ5UsEYbbjovAfsxbm/view?usp=sharing)* {Credits AP}
 - 09-02-22: [Class on 9-2-22](https://youtu.be/bhQrNrrK-94) {Credits PS}
-- 22-03-22: [Root Locus, Bode Plots Starting](https://youtu.be/lSRCs4NjaQs)
+- [31-03-22](https://youtu.be/-NdW9KwF_6E)
 - Rest Recording not available.
 
 
@@ -106,6 +106,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk)*
 - 25-01-22: [control basics and loops](https://drive.google.com/file/d/1IPo39jSZbC0WJQLQkvDGLfBlr2vUYf3O/view?usp=sharing)*
 - 01-02-22: [Topic??](https://www.youtube.com/watch?v=MGQoKuP1Ewc)
+- 22-03-22: [Root Locus, Bode Plots Starting](https://youtu.be/lSRCs4NjaQs)
 - [23-03-22](https://youtu.be/ImhHMCmG3Cw)
 - [29-03-22](https://youtu.be/g5yG9zj9_ks)
 - Rest recording not available.

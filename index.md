@@ -35,7 +35,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 11-02-22: [Negative feedback, Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
 - 14-02-22: [Positive Feedback, Sinusoidal Oscillators](https://www.youtube.com/watch?v=nV4Lb7xnQVE)
 - 21-03-22: [Sine Oscillators](https://youtu.be/J6w3sjJ7bS4)
-- 01-04-2: [Power Amp.](https://youtu.be/sBRb5c7efgM)
+- 01-04-22: [Power Amp.](https://youtu.be/sBRb5c7efgM)
+- 04-04-22: [Phase Lock Loops](https://youtu.be/g-iIxh0xvDw)
 
 ##### Prof PB
 - 18-02-22: [MOS Circuits Intro single stage amp](https://youtu.be/wLkggJxqIkQ)

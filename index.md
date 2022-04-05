@@ -150,6 +150,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 29-03-22: [Parallel Vertical Polarisation](https://youtu.be/B8VtmUItWqw)
   - [SV61 Reflection and Refraction Part 2](https://drive.google.com/file/d/1Ua2P2EgpSNm-liYRDElteXi6lhUkPXJ2/view?usp=sharing)*
   - 31-03-22: [Propagation of Radio Waves](https://youtu.be/essGxuBhojo)
+  - 05-04-22: [Propagation of Radio waves contd.](https://youtu.be/rvNSYd3MYuI)
 
 
 

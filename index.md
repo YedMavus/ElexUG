@@ -67,6 +67,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 24-03-22: [Digital Transistor Logic](https://youtu.be/j5YXOG27BSs)
 - 30-03-22: [DTL Fanout etc continued, TTL Started](https://youtu.be/u-Fp55jM0Uk)
 - 31-03-22: [TTL, Diff amps and ETL, etc](https://youtu.be/RQeYplFmnes)
+- 06-04-22: [..](https://youtu.be/2BRKlCynNyk)
 
 
 

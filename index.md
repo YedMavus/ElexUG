@@ -67,7 +67,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 24-03-22: [Digital Transistor Logic](https://youtu.be/j5YXOG27BSs)
 - 30-03-22: [DTL Fanout etc continued, TTL Started](https://youtu.be/u-Fp55jM0Uk)
 - 31-03-22: [TTL, Diff amps and ETL, etc](https://youtu.be/RQeYplFmnes)
-- 06-04-22: [..](https://youtu.be/2BRKlCynNyk)
+- 06-04-22: [Quine McCluskey Method](https://youtu.be/2BRKlCynNyk)
 
 
 
@@ -152,6 +152,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV61 Reflection and Refraction Part 2](https://drive.google.com/file/d/1Ua2P2EgpSNm-liYRDElteXi6lhUkPXJ2/view?usp=sharing)*
   - 31-03-22: [Propagation of Radio Waves](https://youtu.be/essGxuBhojo)
   - 05-04-22: [Propagation of Radio waves contd.](https://youtu.be/rvNSYd3MYuI)
+  - 07-04-22: [Contd.](https://youtu.be/fNzi7y_mozk)
 
 
 

@@ -154,6 +154,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 31-03-22: [Propagation of Radio Waves](https://youtu.be/essGxuBhojo)
   - 05-04-22: [Propagation of Radio waves contd.](https://youtu.be/rvNSYd3MYuI)
   - 07-04-22: [Contd.](https://youtu.be/fNzi7y_mozk)
+  - [SV71 Propagation Modes_1](https://drive.google.com/file/d/1sU4wNfX0QOfUWHQb7q56P7WzwRl9bk0-/view)*
 
 
 

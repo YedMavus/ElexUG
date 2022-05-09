@@ -20,54 +20,6 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 
 
-### Analog Elex [RC,PB]
-
-##### Prof RC
-- 10-01-22: [Intro + Amplifier Basics + Cascading](https://www.youtube.com/watch?v=5-rYFTE1hwE)
-- 14-01-22: [A lot of Disruptions, Disconnections and a bit of Amplifiers](https://youtu.be/aQ3OY9YpyEU&t=36m12s)
-- 17-01-22: [Amplifier Configurations, Discrete Amp ckt, etc](https://youtu.be/S2yNNsj64Ts)
-- 21-01-22: [Freq response of Amps, FETs and FET Amplifiers](https://youtu.be/StlzfyD4XVE)
-- 24-01-22: [More cacading amps, freq  response etc. missing first 12 mins](https://www.youtube.com/watch?v=1UelWy9ZLTU) / [Alternate Link for full lecture](https://drive.google.com/file/d/1PYAev_SaGArgrnlAa0eFpvcBTyhKOBNm/view?usp=sharing)*
-- 28-01-22: [Cascoded Amplifiers](https://youtu.be/0S4xJyKIrUw)
-- 31-01-22: [New Topic](https://www.youtube.com/watch?v=_s8--Sd5CMo)
-- 07-02-22: [Advantage of Negative Feedback](https://youtu.be/kZ_NwEo__CI)
-- 11-02-22: [Negative feedback, Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
-- 14-02-22: [Positive Feedback, Sinusoidal Oscillators](https://www.youtube.com/watch?v=nV4Lb7xnQVE)
-- 21-03-22: [Sine Oscillators](https://youtu.be/J6w3sjJ7bS4)
-- 01-04-22: [Power Amp.](https://youtu.be/sBRb5c7efgM)
-- 04-04-22: [Phase Lock Loops](https://youtu.be/g-iIxh0xvDw)
-
-##### Prof PB
-- 18-02-22: [MOS Circuits Intro single stage amp](https://youtu.be/wLkggJxqIkQ)
-- 21-02-22: [AC Behaviour in MOS, CS Stage with Source Degradation](https://youtu.be/8IpLm6hgwI0)
-- 25-02-22: [Cascode MOS](https://www.youtube.com/watch?v=f3h3FLsUBkQ)
-- 28-02-22: [Swtiched Capacitors](https://youtu.be/KT4uir_tQt8) **Till here for midsem**
-- 04-03-22: [Current Mirror](https://youtu.be/wWPUBJjZlWM)
-- 25-03-22: [Differential Amplifiers](https://youtu.be/2S2c3izx9pk)
-
-
-### Digital Elex [AB]
-- 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
-- 13-01-22: [Logic Gates and Adders + Practical Intro](https://youtu.be/T9Wfk50bEbM)
-- 19-01-22: [Encoders and Decorders using logic gates](https://youtu.be/_DShoX8hBkw)
-- 20-01-22: [Magnitude Comparators and K Maps intro](https://youtu.be/Ba3BBGZsCEU)
-- 27-01-22: [K-maps and Flip Flops](https://youtu.be/C5wFjzjckBI)
-- 02-02-22: [Flip Flop Delays, JK Ff, etc](https://youtu.be/Gw3KW52DM4Q)
-- 03-02-22: [Binary Counter, JK Flipflops etc](https://youtu.be/F604uh6K-2Y)
-- 09-02-22: [Controlled up down synchronus counter, ripple counter, modulo 5 counter etc.](https://youtu.be/bwE73xXhjnw) {Credits AP}
-- 10-02-22: [D flipflop, conversation of JK D flipflop to T etc, Toggling](https://youtu.be/bDez1o7i4kg){Credits AP}
-- 16-02-22: [Arbitrary Counters, Ring and Johnson Counters](https://youtu.be/l_lYU5tSVnU)
-- 17-02-22: [Sequence Generator, Serial Register and Signed Binary Number Systems (intro)](https://youtu.be/kCBiQBkMkao) **Till here for Midsem**
-- 23-02-22: [Controlled Adder / Subtracter, Complementer and Multipliers](https://youtu.be/qIBpjsx_LuY)
-- 24-02-22: [Multiplier extended](https://www.youtube.com/watch?v=FgioXC-fbIA)
-- 02-03-22: [Signed Multiplication](https://youtu.be/15QL_Cm8j8M)
-- 03-03-22: [CMOS in Digital Circuit](https://youtu.be/UBrQWh224v4)
-- 23-03-22: [CMOS Switch, Binary Unit, Transmission Gates ](https://youtu.be/kLBeoiUcHwc)
-- 24-03-22: [Digital Transistor Logic](https://youtu.be/j5YXOG27BSs)
-- 30-03-22: [DTL Fanout etc continued, TTL Started](https://youtu.be/u-Fp55jM0Uk)
-- 31-03-22: [TTL, Diff amps and ETL, etc](https://youtu.be/RQeYplFmnes)
-- 06-04-22: [Quine McCluskey Method](https://youtu.be/2BRKlCynNyk)
-
 
 
 
@@ -157,6 +109,54 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 12-04-22: [MUF, Skip Distance/DeadZone/Silent Zone, ](https://youtu.be/ZGZ9p_j7-l4)
   - [SV71 Propagation Modes_2](https://drive.google.com/file/d/19tlUiHt1ryjhW4D2Ci-YgiBX2N2w_Eq6/view)*
   - 19-04-22: [Final Prof SD Class, Long Dist Surface Wave Prop](https://youtu.be/TWCsTJn3pcE)
+
+### Analog Elex [RC,PB]
+
+##### Prof RC
+- 10-01-22: [Intro + Amplifier Basics + Cascading](https://www.youtube.com/watch?v=5-rYFTE1hwE)
+- 14-01-22: [A lot of Disruptions, Disconnections and a bit of Amplifiers](https://youtu.be/aQ3OY9YpyEU&t=36m12s)
+- 17-01-22: [Amplifier Configurations, Discrete Amp ckt, etc](https://youtu.be/S2yNNsj64Ts)
+- 21-01-22: [Freq response of Amps, FETs and FET Amplifiers](https://youtu.be/StlzfyD4XVE)
+- 24-01-22: [More cacading amps, freq  response etc. missing first 12 mins](https://www.youtube.com/watch?v=1UelWy9ZLTU) / [Alternate Link for full lecture](https://drive.google.com/file/d/1PYAev_SaGArgrnlAa0eFpvcBTyhKOBNm/view?usp=sharing)*
+- 28-01-22: [Cascoded Amplifiers](https://youtu.be/0S4xJyKIrUw)
+- 31-01-22: [New Topic](https://www.youtube.com/watch?v=_s8--Sd5CMo)
+- 07-02-22: [Advantage of Negative Feedback](https://youtu.be/kZ_NwEo__CI)
+- 11-02-22: [Negative feedback, Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
+- 14-02-22: [Positive Feedback, Sinusoidal Oscillators](https://www.youtube.com/watch?v=nV4Lb7xnQVE)
+- 21-03-22: [Sine Oscillators](https://youtu.be/J6w3sjJ7bS4)
+- 01-04-22: [Power Amp.](https://youtu.be/sBRb5c7efgM)
+- 04-04-22: [Phase Lock Loops](https://youtu.be/g-iIxh0xvDw)
+
+##### Prof PB
+- 18-02-22: [MOS Circuits Intro single stage amp](https://youtu.be/wLkggJxqIkQ)
+- 21-02-22: [AC Behaviour in MOS, CS Stage with Source Degradation](https://youtu.be/8IpLm6hgwI0)
+- 25-02-22: [Cascode MOS](https://www.youtube.com/watch?v=f3h3FLsUBkQ)
+- 28-02-22: [Swtiched Capacitors](https://youtu.be/KT4uir_tQt8) **Till here for midsem**
+- 04-03-22: [Current Mirror](https://youtu.be/wWPUBJjZlWM)
+- 25-03-22: [Differential Amplifiers](https://youtu.be/2S2c3izx9pk)
+
+
+### Digital Elex [AB]
+- 12-01-22: [Intro + Number Systems + Logic Gates](https://youtu.be/3oPHJGOTcOk)
+- 13-01-22: [Logic Gates and Adders + Practical Intro](https://youtu.be/T9Wfk50bEbM)
+- 19-01-22: [Encoders and Decorders using logic gates](https://youtu.be/_DShoX8hBkw)
+- 20-01-22: [Magnitude Comparators and K Maps intro](https://youtu.be/Ba3BBGZsCEU)
+- 27-01-22: [K-maps and Flip Flops](https://youtu.be/C5wFjzjckBI)
+- 02-02-22: [Flip Flop Delays, JK Ff, etc](https://youtu.be/Gw3KW52DM4Q)
+- 03-02-22: [Binary Counter, JK Flipflops etc](https://youtu.be/F604uh6K-2Y)
+- 09-02-22: [Controlled up down synchronus counter, ripple counter, modulo 5 counter etc.](https://youtu.be/bwE73xXhjnw) {Credits AP}
+- 10-02-22: [D flipflop, conversation of JK D flipflop to T etc, Toggling](https://youtu.be/bDez1o7i4kg){Credits AP}
+- 16-02-22: [Arbitrary Counters, Ring and Johnson Counters](https://youtu.be/l_lYU5tSVnU)
+- 17-02-22: [Sequence Generator, Serial Register and Signed Binary Number Systems (intro)](https://youtu.be/kCBiQBkMkao) **Till here for Midsem**
+- 23-02-22: [Controlled Adder / Subtracter, Complementer and Multipliers](https://youtu.be/qIBpjsx_LuY)
+- 24-02-22: [Multiplier extended](https://www.youtube.com/watch?v=FgioXC-fbIA)
+- 02-03-22: [Signed Multiplication](https://youtu.be/15QL_Cm8j8M)
+- 03-03-22: [CMOS in Digital Circuit](https://youtu.be/UBrQWh224v4)
+- 23-03-22: [CMOS Switch, Binary Unit, Transmission Gates ](https://youtu.be/kLBeoiUcHwc)
+- 24-03-22: [Digital Transistor Logic](https://youtu.be/j5YXOG27BSs)
+- 30-03-22: [DTL Fanout etc continued, TTL Started](https://youtu.be/u-Fp55jM0Uk)
+- 31-03-22: [TTL, Diff amps and ETL, etc](https://youtu.be/RQeYplFmnes)
+- 06-04-22: [Quine McCluskey Method](https://youtu.be/2BRKlCynNyk)
 
 
 

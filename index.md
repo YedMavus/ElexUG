@@ -18,55 +18,6 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 ## Theory Classes
 
-
-
-
-
-
-### Microelex Tech [MM, CRC]
-##### Prof MM
-- 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
-- 13-01-22: [IC Technologies - Compound Semiconds](https://youtu.be/2qcF069PvRw)
-- 24-01-22: [4 Probe, Hall Effect and Thin Film by Ellipsometer, Module 2: Si growth and crystal growth](https://youtu.be/SDDNuPYJM4c)
-- 31-01-22: [Crystal Growth and Cz Method](https://youtu.be/dtDlGWf_lRw)
-- 07-02-22: [FloatZone Technique, Diffisuin{new module}](https://www.youtube.com/watch?v=mwDAhS8X6TA)
-- 14-02-22: [Fick's Laws, Diffusion in Semicond Crystals](https://youtu.be/hLDWeJ3T9ks)
-- 21-02-22: [Metallisation (starting)](https://youtu.be/ksRFO-PnGqA)
-- 28-02-22: [Metallisation techniques](https://youtu.be/zXYcTLPdx5U) **Till here for Midsem**
-- 22-03-22: [Ion Implantation Starting](https://youtu.be/xXoX5UQ1lT8)
-
-
-##### Prof CRC
-- 22-01-22: [Sub Intro](https://drive.google.com/file/d/1NcdlAWTy9YEqp5J1qjdZD4RAiDNuEf-_/view?usp=sharing)*
-- 02-02-22: [Class on 2-2-22](https://drive.google.com/file/d/1lngSpTggLcWfAfSZ5UsEYbbjovAfsxbm/view?usp=sharing)* {Credits AP}
-- 09-02-22: [Class on 9-2-22](https://youtu.be/bhQrNrrK-94) {Credits PS}
-- [31-03-22](https://youtu.be/-NdW9KwF_6E)
-- Rest Recording not available.
-
-
-### Elex Instrumentation and Control [MM, CRC]
-##### Prof MM
-- 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
-- 21-01-22: [Measurement Standards and Errors](https://youtu.be/iKjajEfVepo)
-- 28-01-22: [Sensors and Transducers](https://www.youtube.com/watch?v=8QAzxgBbqiY)
-- 04-02-22: [Sensors, Linear Variable Diffrential Transducer, etc](https://youtu.be/41LkCCIdIFU)
-- 11-02-22: [Analog Inst. Measurements - Wattmeter, LCR, Q meterm Ohmmeter starting](https://youtu.be/wlzKBuRWOKw)
-- 18-02-22: [Ohmmeter, Multimeter](https://youtu.be/4UO_zdJxv4k)
-- 25-02-22: [AC Voltmeter, Internal Circuit of multimeter - analog and digital, CRO ](https://www.youtube.com/watch?v=o6IaeJKffy4) **Till here for Midsem**
-- 25-03-22: [CRO](https://youtu.be/3SvvDnit5wg)
-- 01-04-22: [CRO Contd.](https://youtu.be/J__qJ8dnDHU)
-
-
-##### Prof CRC
-- 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk)*
-- 25-01-22: [control basics and loops](https://drive.google.com/file/d/1IPo39jSZbC0WJQLQkvDGLfBlr2vUYf3O/view?usp=sharing)*
-- 01-02-22: [Topic??](https://www.youtube.com/watch?v=MGQoKuP1Ewc)
-- 22-03-22: [Root Locus, Bode Plots Starting](https://youtu.be/lSRCs4NjaQs)
-- [23-03-22](https://youtu.be/ImhHMCmG3Cw)
-- [29-03-22](https://youtu.be/g5yG9zj9_ks)
-- Rest recording not available.
-
-
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
   - 13-01-22: [Class 2: Gauss' Law](https://youtu.be/R2pdv91rW2s)
@@ -84,13 +35,13 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 02-02-22: [Gauss, Lenz, Faraday's Laws of Magnetism / Magstatic Field](https://www.youtube.com/watch?v=fjskgdJ0hAY)
   - [SV24 Ampere's and Gauss' Law Maxwell Static](https://drive.google.com/file/d/1PNaZLdd5koIMsh-Vz-hZI-HPYwjPxpW-/view?usp=sharing)*
   - [SV31 Faraday's Law](https://drive.google.com/file/d/1toNVmPnMHIwVBk-_2xwpzbEXmGkBLJa_/view?usp=sharing)*
-  - [SV34 Inconsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)*
+  - [SV34 Inconsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)* **Endsem syll**
   - 10-02-22: [Boundary Conditions for Electro and Magnetic Fields](https://youtu.be/rYwDgLL-hkI)
   - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
   - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)* **Till Here for Midsem**
   - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
   - 17-02-22: [EM Wave propagation and Wave eq](https://youtu.be/0t6pPAYLoow)
-  - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)*
+  - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)* **Endsem syll starts here**
   - [SV42 EM Waves_2](https://drive.google.com/file/d/1wc_iIM7p1TxE0813xxorLvKNptcrDT1n/view?usp=sharing)*
   - 22-02-22: [Time Varying Harmonics](https://youtu.be/I0yyCaYiyZs)
   - [SV43 EM Waves_3](https://drive.google.com/file/d/18_35-7mWQoNe1eGoc9Wg0GL1SVucw3jR/view?usp=sharing)*
@@ -108,7 +59,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV71 Propagation Modes_1](https://drive.google.com/file/d/1sU4wNfX0QOfUWHQb7q56P7WzwRl9bk0-/view)*
   - 12-04-22: [MUF, Skip Distance/DeadZone/Silent Zone, ](https://youtu.be/ZGZ9p_j7-l4)
   - [SV71 Propagation Modes_2](https://drive.google.com/file/d/19tlUiHt1ryjhW4D2Ci-YgiBX2N2w_Eq6/view)*
-  - 19-04-22: [Final Prof SD Class, Long Dist Surface Wave Prop](https://youtu.be/TWCsTJn3pcE)
+  - 19-04-22: [Final Prof SD Class, Long Dist Surface Wave Prop](https://youtu.be/TWCsTJn3pcE) **End of Endsem syll**
+
 
 ### Analog Elex [RC,PB]
 
@@ -157,6 +109,54 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 30-03-22: [DTL Fanout etc continued, TTL Started](https://youtu.be/u-Fp55jM0Uk)
 - 31-03-22: [TTL, Diff amps and ETL, etc](https://youtu.be/RQeYplFmnes)
 - 06-04-22: [Quine McCluskey Method](https://youtu.be/2BRKlCynNyk)
+
+
+
+
+### Microelex Tech [MM, CRC]
+##### Prof MM
+- 10-01-22: [Subject Introduction, Fabrication of Semiconductors](https://youtu.be/9Jphyr-i1VA)
+- 13-01-22: [IC Technologies - Compound Semiconds](https://youtu.be/2qcF069PvRw)
+- 24-01-22: [4 Probe, Hall Effect and Thin Film by Ellipsometer, Module 2: Si growth and crystal growth](https://youtu.be/SDDNuPYJM4c)
+- 31-01-22: [Crystal Growth and Cz Method](https://youtu.be/dtDlGWf_lRw)
+- 07-02-22: [FloatZone Technique, Diffisuin{new module}](https://www.youtube.com/watch?v=mwDAhS8X6TA)
+- 14-02-22: [Fick's Laws, Diffusion in Semicond Crystals](https://youtu.be/hLDWeJ3T9ks)
+- 21-02-22: [Metallisation (starting)](https://youtu.be/ksRFO-PnGqA)
+- 28-02-22: [Metallisation techniques](https://youtu.be/zXYcTLPdx5U) **Till here for Midsem**
+- 22-03-22: [Ion Implantation Starting](https://youtu.be/xXoX5UQ1lT8)
+
+
+##### Prof CRC
+- 22-01-22: [Sub Intro](https://drive.google.com/file/d/1NcdlAWTy9YEqp5J1qjdZD4RAiDNuEf-_/view?usp=sharing)*
+- 02-02-22: [Class on 2-2-22](https://drive.google.com/file/d/1lngSpTggLcWfAfSZ5UsEYbbjovAfsxbm/view?usp=sharing)* {Credits AP}
+- 09-02-22: [Class on 9-2-22](https://youtu.be/bhQrNrrK-94) {Credits PS}
+- [31-03-22](https://youtu.be/-NdW9KwF_6E)
+- Rest Recording not available.
+
+
+### Elex Instrumentation and Control [MM, CRC]
+##### Prof MM
+- 14-01-22: [Subject Intro](https://youtu.be/6TdLCencZBM)
+- 21-01-22: [Measurement Standards and Errors](https://youtu.be/iKjajEfVepo)
+- 28-01-22: [Sensors and Transducers](https://www.youtube.com/watch?v=8QAzxgBbqiY)
+- 04-02-22: [Sensors, Linear Variable Diffrential Transducer, etc](https://youtu.be/41LkCCIdIFU)
+- 11-02-22: [Analog Inst. Measurements - Wattmeter, LCR, Q meterm Ohmmeter starting](https://youtu.be/wlzKBuRWOKw)
+- 18-02-22: [Ohmmeter, Multimeter](https://youtu.be/4UO_zdJxv4k)
+- 25-02-22: [AC Voltmeter, Internal Circuit of multimeter - analog and digital, CRO ](https://www.youtube.com/watch?v=o6IaeJKffy4) **Till here for Midsem**
+- 25-03-22: [CRO](https://youtu.be/3SvvDnit5wg)
+- 01-04-22: [CRO Contd.](https://youtu.be/J__qJ8dnDHU)
+
+
+##### Prof CRC
+- 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk)*
+- 25-01-22: [control basics and loops](https://drive.google.com/file/d/1IPo39jSZbC0WJQLQkvDGLfBlr2vUYf3O/view?usp=sharing)*
+- 01-02-22: [Topic??](https://www.youtube.com/watch?v=MGQoKuP1Ewc)
+- 22-03-22: [Root Locus, Bode Plots Starting](https://youtu.be/lSRCs4NjaQs)
+- [23-03-22](https://youtu.be/ImhHMCmG3Cw)
+- [29-03-22](https://youtu.be/g5yG9zj9_ks)
+- Rest recording not available.
+
+
 
 
 

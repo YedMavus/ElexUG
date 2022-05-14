@@ -16,50 +16,33 @@ Others are welcome to contribute by adding links, recording links and making the
 gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 
+## Practical Classes
+
+### Analog Elex Lab
+
+- [01-02-22](https://youtu.be/Xw1uPDsBtlA)
+- [08-02-22](https://youtu.be/IgEo24vZkB0)
+- [15-02-22](https://youtu.be/7SL-MZVLq-o)
+- [01-03-22](https://youtu.be/TMc-AgrfFIg)
+- [22-03-22](https://www.youtube.com/watch?v=BDmlLr6rf2U)
+
+### Digital Elex Lab
+
+- [27-01-22](https://youtu.be/Yow8XS7m4OQ)
+- [03-02-22](https://youtu.be/ulVRo_GOIUQ)
+- [10-02-22](https://youtu.be/bBGMwdx4T_E)
+- [17-02-22](https://youtu.be/I1FWT4BOJA0)
+
+### Microelex Lab
+
+### Elex Inst and Control Lab
+
+- [25-03-22](https://youtu.be/wKsHyZbEXCM)
+- [08-04-22](https://youtu.be/Rnfclvm8fc4)
+
+
 ## Theory Classes
 
-### Elex Theory and Radio Wave Propagation [SD]
-  - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
-  - 13-01-22: [Class 2: Gauss' Law](https://youtu.be/R2pdv91rW2s)
-  - [SV1 Intro and Coulombs Lec Notes](https://drive.google.com/file/d/1CbfOqxALnAGA4l4guQDsS0K2fNQ5qxT-/view?usp=sharing)*
-  - 18-01-22: [Application and non-Aplication of Gauss' Law](https://youtu.be/Ho11EwMpV6o)
-  - 20-01-22: [Application of Gauss' Law{contd.}, Potential and Cyl Coords.](https://youtu.be/SJQlbp8Swng)
-  - [SV11 Gauss' Law](https://drive.google.com/file/d/1JBqrzYuQ7KkH4BDdVuM1eYHg0IEWaLWV/view?usp=sharing)*
-  - 25-01-22: [Poisson's and Laplace eq + Examples](https://youtu.be/xplykXid2Sc)
-  - [SV15 KVL and Electric Potential](https://drive.google.com/file/d/14P7TRw-YPqnFIKd_ScEhUcwGvG3EuftO/view?usp=sharing)*
-  - [SV16 Poisson's and Laplace Eq](https://drive.google.com/file/d/1f0EVGC8UUpACzzPIz76V4y6kt4Yp4Uf8/view?usp=sharing)*
-  - 27-01-22: [KCL, Continuity and Magnetostatics](https://www.youtube.com/watch?v=gKQLQVivxIc)
-  - [SV18 Continuity and KCL](https://drive.google.com/file/d/1P5Aoq5-hV1zilxjKsm1oCQQmf2qA3POO/view?usp=sharing)*
-  - [SV21 Magnetostatics and Hall Effect](https://drive.google.com/file/d/1XcR-f_yL1DlyNix3zxpErKQLwkXYR7VD/view?usp=sharing)*
-  - 01-02-22: [Magnetostatics, Ampere and Gauss](https://youtu.be/xiccGKuWwVk)
-  - 02-02-22: [Gauss, Lenz, Faraday's Laws of Magnetism / Magstatic Field](https://www.youtube.com/watch?v=fjskgdJ0hAY)
-  - [SV24 Ampere's and Gauss' Law Maxwell Static](https://drive.google.com/file/d/1PNaZLdd5koIMsh-Vz-hZI-HPYwjPxpW-/view?usp=sharing)*
-  - [SV31 Faraday's Law](https://drive.google.com/file/d/1toNVmPnMHIwVBk-_2xwpzbEXmGkBLJa_/view?usp=sharing)*
-  - [SV34 Inconsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)* **Endsem syll**
-  - 10-02-22: [Boundary Conditions for Electro and Magnetic Fields](https://youtu.be/rYwDgLL-hkI)
-  - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
-  - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)* **Till Here for Midsem**
-  - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
-  - 17-02-22: [EM Wave propagation and Wave eq](https://youtu.be/0t6pPAYLoow)
-  - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)* **Endsem syll starts here**
-  - [SV42 EM Waves_2](https://drive.google.com/file/d/1wc_iIM7p1TxE0813xxorLvKNptcrDT1n/view?usp=sharing)*
-  - 22-02-22: [Time Varying Harmonics](https://youtu.be/I0yyCaYiyZs)
-  - [SV43 EM Waves_3](https://drive.google.com/file/d/18_35-7mWQoNe1eGoc9Wg0GL1SVucw3jR/view?usp=sharing)*
-  - [EMT - Skin Effect, Skin depth and depth of penetration](https://youtu.be/Zf6rftvn2mU)
-  - [SV55 - Skin Effect](https://drive.google.com/file/d/1cPGn9FoRr46gtgYYwdIKuqJG4rXg2OkQ/view?usp=sharing)*
-  - 03-03-22: [Poynting Th, Reflection and Refraction of Plane waves](https://youtu.be/YqEzOiolN_0)
-  - 22-03-22: [Absorption of Waves, Standing Waves](https://youtu.be/-IjklmVjJKE)
-  - [SV61 Reflection and Refraction](https://drive.google.com/file/d/1Y_Rwciw5ewzb4gQmKyHuQL_Amb2f-HIO/view)*
-  - 24-03-22: [Oblique Incidence](https://youtu.be/a1yTMwEZJ-M)
-  - 29-03-22: [Parallel Vertical Polarisation](https://youtu.be/B8VtmUItWqw)
-  - [SV61 Reflection and Refraction Part 2](https://drive.google.com/file/d/1Ua2P2EgpSNm-liYRDElteXi6lhUkPXJ2/view?usp=sharing)*
-  - 31-03-22: [Propagation of Radio Waves](https://youtu.be/essGxuBhojo)
-  - 05-04-22: [Propagation of Radio waves contd.](https://youtu.be/rvNSYd3MYuI)
-  - 07-04-22: [Contd.](https://youtu.be/fNzi7y_mozk)
-  - [SV71 Propagation Modes_1](https://drive.google.com/file/d/1sU4wNfX0QOfUWHQb7q56P7WzwRl9bk0-/view)*
-  - 12-04-22: [MUF, Skip Distance/DeadZone/Silent Zone, ](https://youtu.be/ZGZ9p_j7-l4)
-  - [SV71 Propagation Modes_2](https://drive.google.com/file/d/19tlUiHt1ryjhW4D2Ci-YgiBX2N2w_Eq6/view)*
-  - 19-04-22: [Final Prof SD Class, Long Dist Surface Wave Prop](https://youtu.be/TWCsTJn3pcE) **End of Endsem syll**
 
 
 ### Analog Elex [RC,PB]
@@ -158,33 +141,53 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 
 
+### Elex Theory and Radio Wave Propagation [SD]
+  - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
+  - 13-01-22: [Class 2: Gauss' Law](https://youtu.be/R2pdv91rW2s)
+  - [SV1 Intro and Coulombs Lec Notes](https://drive.google.com/file/d/1CbfOqxALnAGA4l4guQDsS0K2fNQ5qxT-/view?usp=sharing)*
+  - 18-01-22: [Application and non-Aplication of Gauss' Law](https://youtu.be/Ho11EwMpV6o)
+  - 20-01-22: [Application of Gauss' Law{contd.}, Potential and Cyl Coords.](https://youtu.be/SJQlbp8Swng)
+  - [SV11 Gauss' Law](https://drive.google.com/file/d/1JBqrzYuQ7KkH4BDdVuM1eYHg0IEWaLWV/view?usp=sharing)*
+  - 25-01-22: [Poisson's and Laplace eq + Examples](https://youtu.be/xplykXid2Sc)
+  - [SV15 KVL and Electric Potential](https://drive.google.com/file/d/14P7TRw-YPqnFIKd_ScEhUcwGvG3EuftO/view?usp=sharing)*
+  - [SV16 Poisson's and Laplace Eq](https://drive.google.com/file/d/1f0EVGC8UUpACzzPIz76V4y6kt4Yp4Uf8/view?usp=sharing)*
+  - 27-01-22: [KCL, Continuity and Magnetostatics](https://www.youtube.com/watch?v=gKQLQVivxIc)
+  - [SV18 Continuity and KCL](https://drive.google.com/file/d/1P5Aoq5-hV1zilxjKsm1oCQQmf2qA3POO/view?usp=sharing)*
+  - [SV21 Magnetostatics and Hall Effect](https://drive.google.com/file/d/1XcR-f_yL1DlyNix3zxpErKQLwkXYR7VD/view?usp=sharing)*
+  - 01-02-22: [Magnetostatics, Ampere and Gauss](https://youtu.be/xiccGKuWwVk)
+  - 02-02-22: [Gauss, Lenz, Faraday's Laws of Magnetism / Magstatic Field](https://www.youtube.com/watch?v=fjskgdJ0hAY)
+  - [SV24 Ampere's and Gauss' Law Maxwell Static](https://drive.google.com/file/d/1PNaZLdd5koIMsh-Vz-hZI-HPYwjPxpW-/view?usp=sharing)*
+  - [SV31 Faraday's Law](https://drive.google.com/file/d/1toNVmPnMHIwVBk-_2xwpzbEXmGkBLJa_/view?usp=sharing)*
+  - [SV34 Inconsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)* **Endsem syll**
+  - 10-02-22: [Boundary Conditions for Electro and Magnetic Fields](https://youtu.be/rYwDgLL-hkI)
+  - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
+  - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)* **Till Here for Midsem**
+  - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
+  - 17-02-22: [EM Wave propagation and Wave eq](https://youtu.be/0t6pPAYLoow)
+  - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)* **Endsem syll starts here**
+  - [SV42 EM Waves_2](https://drive.google.com/file/d/1wc_iIM7p1TxE0813xxorLvKNptcrDT1n/view?usp=sharing)*
+  - 22-02-22: [Time Varying Harmonics](https://youtu.be/I0yyCaYiyZs)
+  - [SV43 EM Waves_3](https://drive.google.com/file/d/18_35-7mWQoNe1eGoc9Wg0GL1SVucw3jR/view?usp=sharing)*
+  - [EMT - Skin Effect, Skin depth and depth of penetration](https://youtu.be/Zf6rftvn2mU)
+  - [SV55 - Skin Effect](https://drive.google.com/file/d/1cPGn9FoRr46gtgYYwdIKuqJG4rXg2OkQ/view?usp=sharing)*
+  - 03-03-22: [Poynting Th, Reflection and Refraction of Plane waves](https://youtu.be/YqEzOiolN_0)
+  - 22-03-22: [Absorption of Waves, Standing Waves](https://youtu.be/-IjklmVjJKE)
+  - [SV61 Reflection and Refraction](https://drive.google.com/file/d/1Y_Rwciw5ewzb4gQmKyHuQL_Amb2f-HIO/view)*
+  - 24-03-22: [Oblique Incidence](https://youtu.be/a1yTMwEZJ-M)
+  - 29-03-22: [Parallel Vertical Polarisation](https://youtu.be/B8VtmUItWqw)
+  - [SV61 Reflection and Refraction Part 2](https://drive.google.com/file/d/1Ua2P2EgpSNm-liYRDElteXi6lhUkPXJ2/view?usp=sharing)*
+  - 31-03-22: [Propagation of Radio Waves](https://youtu.be/essGxuBhojo)
+  - 05-04-22: [Propagation of Radio waves contd.](https://youtu.be/rvNSYd3MYuI)
+  - 07-04-22: [Contd.](https://youtu.be/fNzi7y_mozk)
+  - [SV71 Propagation Modes_1](https://drive.google.com/file/d/1sU4wNfX0QOfUWHQb7q56P7WzwRl9bk0-/view)*
+  - 12-04-22: [MUF, Skip Distance/DeadZone/Silent Zone, ](https://youtu.be/ZGZ9p_j7-l4)
+  - [SV71 Propagation Modes_2](https://drive.google.com/file/d/19tlUiHt1ryjhW4D2Ci-YgiBX2N2w_Eq6/view)*
+  - 19-04-22: [Final Prof SD Class, Long Dist Surface Wave Prop](https://youtu.be/TWCsTJn3pcE) **End of Endsem syll**
 
 
 
 
-## Practical Classes
 
-### Analog Elex Lab
-
-- [01-02-22](https://youtu.be/Xw1uPDsBtlA)
-- [08-02-22](https://youtu.be/IgEo24vZkB0)
-- [15-02-22](https://youtu.be/7SL-MZVLq-o)
-- [01-03-22](https://youtu.be/TMc-AgrfFIg)
-- [22-03-22](https://www.youtube.com/watch?v=BDmlLr6rf2U)
-
-### Digital Elex Lab
-
-- [27-01-22](https://youtu.be/Yow8XS7m4OQ)
-- [03-02-22](https://youtu.be/ulVRo_GOIUQ)
-- [10-02-22](https://youtu.be/bBGMwdx4T_E)
-- [17-02-22](https://youtu.be/I1FWT4BOJA0)
-
-### Microelex Lab
-
-### Elex Inst and Control Lab
-
-- [25-03-22](https://youtu.be/wKsHyZbEXCM)
-- [08-04-22](https://youtu.be/Rnfclvm8fc4)
 
 [_](https://github.com/YedMavus/ElexUG/edit/gh-pages/index.md)
 

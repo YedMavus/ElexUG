@@ -16,29 +16,6 @@ Others are welcome to contribute by adding links, recording links and making the
 gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 
-## Practical Classes
-
-### Analog Elex Lab
-
-- [01-02-22](https://youtu.be/Xw1uPDsBtlA)
-- [08-02-22](https://youtu.be/IgEo24vZkB0)
-- [15-02-22](https://youtu.be/7SL-MZVLq-o)
-- [01-03-22](https://youtu.be/TMc-AgrfFIg)
-- [22-03-22](https://www.youtube.com/watch?v=BDmlLr6rf2U)
-
-### Digital Elex Lab
-
-- [27-01-22](https://youtu.be/Yow8XS7m4OQ)
-- [03-02-22](https://youtu.be/ulVRo_GOIUQ)
-- [10-02-22](https://youtu.be/bBGMwdx4T_E)
-- [17-02-22](https://youtu.be/I1FWT4BOJA0)
-
-### Microelex Lab
-
-### Elex Inst and Control Lab
-
-- [25-03-22](https://youtu.be/wKsHyZbEXCM)
-- [08-04-22](https://youtu.be/Rnfclvm8fc4)
 
 
 ## Theory Classes
@@ -183,6 +160,32 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 12-04-22: [MUF, Skip Distance/DeadZone/Silent Zone, ](https://youtu.be/ZGZ9p_j7-l4)
   - [SV71 Propagation Modes_2](https://drive.google.com/file/d/19tlUiHt1ryjhW4D2Ci-YgiBX2N2w_Eq6/view)*
   - 19-04-22: [Final Prof SD Class, Long Dist Surface Wave Prop](https://youtu.be/TWCsTJn3pcE) **End of Endsem syll**
+
+
+
+## Practical Classes
+
+### Analog Elex Lab
+
+- [01-02-22](https://youtu.be/Xw1uPDsBtlA)
+- [08-02-22](https://youtu.be/IgEo24vZkB0)
+- [15-02-22](https://youtu.be/7SL-MZVLq-o)
+- [01-03-22](https://youtu.be/TMc-AgrfFIg)
+- [22-03-22](https://www.youtube.com/watch?v=BDmlLr6rf2U)
+
+### Digital Elex Lab
+
+- [27-01-22](https://youtu.be/Yow8XS7m4OQ)
+- [03-02-22](https://youtu.be/ulVRo_GOIUQ)
+- [10-02-22](https://youtu.be/bBGMwdx4T_E)
+- [17-02-22](https://youtu.be/I1FWT4BOJA0)
+
+### Microelex Lab
+
+### Elex Inst and Control Lab
+
+- [25-03-22](https://youtu.be/wKsHyZbEXCM)
+- [08-04-22](https://youtu.be/Rnfclvm8fc4)
 
 
 

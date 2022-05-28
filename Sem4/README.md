@@ -16,8 +16,9 @@ Others are welcome to contribute by adding links, recording links and making the
 gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 
 
-## Theory Classes
 
+
+## Theory Classes
 
 
 
@@ -35,6 +36,8 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 11-02-22: [Negative feedback, Transconductance Amplifier?](https://youtu.be/xcdzw4mhAxk)
 - 14-02-22: [Positive Feedback, Sinusoidal Oscillators](https://www.youtube.com/watch?v=nV4Lb7xnQVE)
 - 21-03-22: [Sine Oscillators](https://youtu.be/J6w3sjJ7bS4)
+- 01-04-22: [Power Amp.](https://youtu.be/sBRb5c7efgM)
+- 04-04-22: [Phase Lock Loops](https://youtu.be/g-iIxh0xvDw)
 
 ##### Prof PB
 - 18-02-22: [MOS Circuits Intro single stage amp](https://youtu.be/wLkggJxqIkQ)
@@ -63,6 +66,9 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 03-03-22: [CMOS in Digital Circuit](https://youtu.be/UBrQWh224v4)
 - 23-03-22: [CMOS Switch, Binary Unit, Transmission Gates ](https://youtu.be/kLBeoiUcHwc)
 - 24-03-22: [Digital Transistor Logic](https://youtu.be/j5YXOG27BSs)
+- 30-03-22: [DTL Fanout etc continued, TTL Started](https://youtu.be/u-Fp55jM0Uk)
+- 31-03-22: [TTL, Diff amps and ETL, etc](https://youtu.be/RQeYplFmnes)
+- 06-04-22: [Quine McCluskey Method](https://youtu.be/2BRKlCynNyk)
 
 
 
@@ -84,7 +90,7 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 22-01-22: [Sub Intro](https://drive.google.com/file/d/1NcdlAWTy9YEqp5J1qjdZD4RAiDNuEf-_/view?usp=sharing)*
 - 02-02-22: [Class on 2-2-22](https://drive.google.com/file/d/1lngSpTggLcWfAfSZ5UsEYbbjovAfsxbm/view?usp=sharing)* {Credits AP}
 - 09-02-22: [Class on 9-2-22](https://youtu.be/bhQrNrrK-94) {Credits PS}
-- 22-03-22: [Root Locus, Bode Plots Starting](https://youtu.be/lSRCs4NjaQs)
+- [31-03-22](https://youtu.be/-NdW9KwF_6E)
 - Rest Recording not available.
 
 
@@ -98,14 +104,19 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 - 18-02-22: [Ohmmeter, Multimeter](https://youtu.be/4UO_zdJxv4k)
 - 25-02-22: [AC Voltmeter, Internal Circuit of multimeter - analog and digital, CRO ](https://www.youtube.com/watch?v=o6IaeJKffy4) **Till here for Midsem**
 - 25-03-22: [CRO](https://youtu.be/3SvvDnit5wg)
+- 01-04-22: [CRO Contd.](https://youtu.be/J__qJ8dnDHU)
 
 
 ##### Prof CRC
 - 17-01-22: [Subject Intro](https://youtu.be/04s57H933Ew) / [Alternate Link](https://drive.google.com/file/d/1Be2-vQnxv8Ei2UOnjdK6BOE_SeOpbzci/view?usp=drivesdk)*
 - 25-01-22: [control basics and loops](https://drive.google.com/file/d/1IPo39jSZbC0WJQLQkvDGLfBlr2vUYf3O/view?usp=sharing)*
 - 01-02-22: [Topic??](https://www.youtube.com/watch?v=MGQoKuP1Ewc)
+- 22-03-22: [Root Locus, Bode Plots Starting](https://youtu.be/lSRCs4NjaQs)
 - [23-03-22](https://youtu.be/ImhHMCmG3Cw)
+- [29-03-22](https://youtu.be/g5yG9zj9_ks)
 - Rest recording not available.
+
+
 
 ### Elex Theory and Radio Wave Propagation [SD]
   - 11-01-22: [Intro + Significance of Coulomb's Laws](https://youtu.be/grvNB2cYeK8)
@@ -124,13 +135,13 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - 02-02-22: [Gauss, Lenz, Faraday's Laws of Magnetism / Magstatic Field](https://www.youtube.com/watch?v=fjskgdJ0hAY)
   - [SV24 Ampere's and Gauss' Law Maxwell Static](https://drive.google.com/file/d/1PNaZLdd5koIMsh-Vz-hZI-HPYwjPxpW-/view?usp=sharing)*
   - [SV31 Faraday's Law](https://drive.google.com/file/d/1toNVmPnMHIwVBk-_2xwpzbEXmGkBLJa_/view?usp=sharing)*
-  - [SV34 Inconsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)*
+  - [SV34 Inconsistency and Maxwell's eq](https://drive.google.com/file/d/1jVGHgysODv_vnUOeQBysZ0H-xLWDZ5Ao/view?usp=sharing)* **Endsem syll**
   - 10-02-22: [Boundary Conditions for Electro and Magnetic Fields](https://youtu.be/rYwDgLL-hkI)
   - [SV38 E Boundary Cond](https://drive.google.com/file/d/17pijShpoZDejRpNKLR4I_QOQp_ke0MoB/view?usp=sharing)*
   - [SV38 M Boundary Cond](https://drive.google.com/file/d/1rDEcZ5sUzQrN5GMoZ7zLJvi97FSVdXAj/view?usp=sharing)* **Till Here for Midsem**
   - 15-02-22: [Generation of EM Waves](https://youtu.be/yxz4qaRQtHU)
   - 17-02-22: [EM Wave propagation and Wave eq](https://youtu.be/0t6pPAYLoow)
-  - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)*
+  - [SV41 EM Waves_1](https://drive.google.com/file/d/1jQAxANRsbyrGqOIcrINR1kp63rmZY2Ss/view?usp=sharing)* **Endsem syll starts here**
   - [SV42 EM Waves_2](https://drive.google.com/file/d/1wc_iIM7p1TxE0813xxorLvKNptcrDT1n/view?usp=sharing)*
   - 22-02-22: [Time Varying Harmonics](https://youtu.be/I0yyCaYiyZs)
   - [SV43 EM Waves_3](https://drive.google.com/file/d/18_35-7mWQoNe1eGoc9Wg0GL1SVucw3jR/view?usp=sharing)*
@@ -138,10 +149,17 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
   - [SV55 - Skin Effect](https://drive.google.com/file/d/1cPGn9FoRr46gtgYYwdIKuqJG4rXg2OkQ/view?usp=sharing)*
   - 03-03-22: [Poynting Th, Reflection and Refraction of Plane waves](https://youtu.be/YqEzOiolN_0)
   - 22-03-22: [Absorption of Waves, Standing Waves](https://youtu.be/-IjklmVjJKE)
-  - [SV61 Reflection and Refraction](https://drive.google.com/file/d/1Y_Rwciw5ewzb4gQmKyHuQL_Amb2f-HIO/view)
+  - [SV61 Reflection and Refraction](https://drive.google.com/file/d/1Y_Rwciw5ewzb4gQmKyHuQL_Amb2f-HIO/view)*
   - 24-03-22: [Oblique Incidence](https://youtu.be/a1yTMwEZJ-M)
   - 29-03-22: [Parallel Vertical Polarisation](https://youtu.be/B8VtmUItWqw)
-
+  - [SV61 Reflection and Refraction Part 2](https://drive.google.com/file/d/1Ua2P2EgpSNm-liYRDElteXi6lhUkPXJ2/view?usp=sharing)*
+  - 31-03-22: [Propagation of Radio Waves](https://youtu.be/essGxuBhojo)
+  - 05-04-22: [Propagation of Radio waves contd.](https://youtu.be/rvNSYd3MYuI)
+  - 07-04-22: [Contd.](https://youtu.be/fNzi7y_mozk)
+  - [SV71 Propagation Modes_1](https://drive.google.com/file/d/1sU4wNfX0QOfUWHQb7q56P7WzwRl9bk0-/view)*
+  - 12-04-22: [MUF, Skip Distance/DeadZone/Silent Zone, ](https://youtu.be/ZGZ9p_j7-l4)
+  - [SV71 Propagation Modes_2](https://drive.google.com/file/d/19tlUiHt1ryjhW4D2Ci-YgiBX2N2w_Eq6/view)*
+  - 19-04-22: [Final Prof SD Class, Long Dist Surface Wave Prop](https://youtu.be/TWCsTJn3pcE) **End of Endsem syll**
 
 
 
@@ -167,6 +185,12 @@ gyroscope; encrypted-media; picture-in-picture" allowfullscreen></iframe>
 ### Elex Inst and Control Lab
 
 - [25-03-22](https://youtu.be/wKsHyZbEXCM)
+- [08-04-22](https://youtu.be/Rnfclvm8fc4)
+
+
+
+
+
 
 [_](https://github.com/YedMavus/ElexUG/edit/gh-pages/index.md)
 

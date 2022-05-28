@@ -1,4 +1,4 @@
-# This site has ceased to exist due to lack of demand. Contact site admin for any other information of for archived version.
+# This site has ceased to exist due to lack of demand. Contact site admin for any other information or for archived version.
 
 
 ## Visitor Count
